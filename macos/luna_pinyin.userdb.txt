@@ -1,0 +1,7 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	1
+#@/user_id	ad4735de-f6a4-47fe-aa8e-4a1a80cb8225
+hai 	還	c=1 d=1 t=1

@@ -1,0 +1,1893 @@
+# Rime user dictionary
+#@/db_name	jyut6ping3
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	6345
+#@/user_id	ad4735de-f6a4-47fe-aa8e-4a1a80cb8225
+aa1 	丫	c=1 d=1.08718e-11 t=6345
+aa1 gaa1 naa4 daai6 	丫加拿大	c=1 d=1.84677e-11 t=6345
+aa1 maa3 	吖嘛	c=6 d=0.874048 t=6345
+aa3 	啊	c=6 d=1.47743 t=6345
+aa3 baak3 	阿伯	c=1 d=3.52782e-08 t=6345
+aa4 	呀	c=16 d=0.00714176 t=6345
+aai1 	唉	c=3 d=0.000115833 t=6345
+aan3 	晏	c=1 d=9.78334e-08 t=6345
+aan3 di1 	晏啲	c=1 d=5.74268e-05 t=6345
+aat3 	壓	c=0 d=1.10592e-09 t=6345
+aat3 zaa3 	壓搾	c=1 d=1.08927e-06 t=6345
+baa1 si2 	巴士	c=1 d=0.0184074 t=6345
+baa2 	把	c=2 d=4.8219e-08 t=6345
+baa3 lan2 zyu6 	霸撚住	c=1 d=9.37865e-11 t=6345
+baa4 baa1 	爸爸	c=2 d=1.87945e-10 t=6345
+baa6 	吧	c=1 d=8.19288e-09 t=6345
+baai3 nin4 	拜年	c=1 d=0.321422 t=6345
+baak6 	白	c=2 d=0.0057417 t=6345
+baak6 kaat1 	白卡	c=2 d=0.00514054 t=6345
+baak6 saa1 waan1 	白沙灣	c=1 d=1.80086e-09 t=6345
+baak6 sik1 	白色	c=1 d=0.000205513 t=6345
+baak6 tau4 faat3 	白頭髮	c=2 d=4.64583e-10 t=6345
+baan1 	班	c=1 d=1.18365e-13 t=6345
+baan1 sau6 	頒授	c=1 d=5.58833e-08 t=6345
+baan1 soeng2 	班相	c=1 d=9.16765e-08 t=6345
+baan2 	版	c=3 d=0.476837 t=6345
+baan2 bun2 	版本	c=3 d=2.62125e-05 t=6345
+baan6 	扮	c=1 d=1.20072e-05 t=6345
+baat3 	八	c=2 d=2.01589e-09 t=6345
+baat3 daat6 tung1 	八達通	c=1 d=1.31765e-10 t=6345
+baau1 	包	c=2 d=1.0679e-08 t=6345
+baau1 kut3 	包括	c=1 d=0.00108628 t=6345
+baau1 zi2 	包子	c=1 d=0.0123389 t=6345
+baau3 	爆	c=2 d=5.05354e-10 t=6345
+bak1 ging1 	北京	c=1 d=1.11742e-12 t=6345
+bat1 	不	c=1 d=0.00104368 t=6345
+bat1 coeng4 jyu6 gam2 	不祥預感	c=1 d=0.268474 t=6345
+bat1 daan6 	不但	c=1 d=0.412714 t=6345
+bat1 ging2 	畢竟	c=2 d=7.98481e-10 t=6345
+bat1 gwo3 	不過	c=15 d=1.05278 t=6345
+bat1 jing1 goi1 	不應該	c=1 d=6.10194e-13 t=6345
+bat1 jip6 	畢業	c=4 d=9.34035e-08 t=6345
+bat1 jip6 soeng1 	畢業相	c=1 d=8.13374e-12 t=6345
+bat1 jyu4 	不如	c=2 d=0.00704808 t=6345
+bat1 si6 	不是	c=1 d=0.331211 t=6345
+bat1 tung4 	不同	c=2 d=1.27658e-12 t=6345
+bei2 	俾	c=27 d=0.842935 t=6345
+bei2 	比	c=10 d=4.24005e-05 t=6345
+bei2 cin2 	畀錢	c=1 d=5.89006e-09 t=6345
+bei2 gaau3 	比較	c=2 d=1.71971e-07 t=6345
+bei6 	被	c=2 d=0.835082 t=6345
+beng6 duk6 	病毒	c=1 d=0.00162053 t=6345
+bik1 	碧	c=2 d=1.82882e-06 t=6345
+bin1 	邊	c=5 d=5.40914e-06 t=6345
+bin1 	鞭	c=1 d=1.86564e-13 t=6345
+bin1 go3 	邊個	c=8 d=0.264623 t=6345
+bin1 jat1 	邊一	c=1 d=4.46313e-10 t=6345
+bin1 jyun4 	邊緣	c=1 d=2.25449e-05 t=6345
+bin3 	變	c=1 d=0.0112769 t=6345
+bin3 liu5 	變了	c=1 d=0.211189 t=6345
+bin3 taai3 lou2 	變態佬	c=1 d=4.47469e-11 t=6345
+bing1 cyun1 	冰川	c=1 d=1.39576e-11 t=6345
+bing6 	並	c=2 d=0.00222113 t=6345
+bing6 bat1 si6 	並不是	c=1 d=3.56388e-10 t=6345
+bing6 ce2 	並且	c=1 d=1.06292e-12 t=6345
+bit1 seoi1 	必須	c=1 d=0.00117088 t=6345
+biu1 	錶	c=1 d=0.256661 t=6345
+biu2 si6 	表示	c=5 d=0.27169 t=6345
+biu2 ze2 	表姐	c=1 d=1.83787e-13 t=6345
+bo1 	波	c=2 d=5.896e-05 t=6345
+bo1 lei4 coeng1 	玻璃窗	c=1 d=0.000281606 t=6345
+bo1 zai2 	波仔	c=3 d=1.12885e-08 t=6345
+bo3 	播	c=2 d=2.07031e-11 t=6345
+bo3 go1 	播歌	c=1 d=7.25014e-12 t=6345
+bok3 	駁	c=1 d=1.10326e-09 t=6345
+bok3 mat6 gun2 	博物館	c=0 d=8.96292e-08 t=6345
+bong1 	幫	c=17 d=0.267117 t=6345
+bong1 gan2 	幫緊	c=1 d=9.46807e-05 t=6345
+bong1 m4 dou2 	幫唔倒	c=1 d=6.75999e-12 t=6345
+bong2 gan2 	綁緊	c=1 d=9.28059e-05 t=6345
+bong6 seoi2 	磅水	c=1 d=6.67658e-13 t=6345
+bou2 	補	c=2 d=3.29737e-05 t=6345
+bou2 sin1 	保鮮	c=1 d=1.07324e-08 t=6345
+bou6 	部	c=8 d=0.46005 t=6345
+bou6 mun4 	部門	c=1 d=1.03901e-09 t=6345
+bui3 do1 fan1 	貝多芬	c=1 d=0.0223708 t=6345
+bun1 	搬	c=4 d=6.72577e-07 t=6345
+bun1 uk1 	搬屋	c=1 d=1.90761e-10 t=6345
+bun1 wan6 	搬運	c=2 d=2.01571e-10 t=6345
+bun1 zo2 	搬咗	c=1 d=7.48901e-11 t=6345
+bun2 	本	c=2 d=1.74261e-11 t=6345
+bun2 san1 	本身	c=8 d=9.31217e-05 t=6345
+bun3 	半	c=1 d=1.81427e-08 t=6345
+bun3 dou2 	半島	c=1 d=2.17843e-13 t=6345
+bun3 jat6 	半日	c=1 d=8.54786e-08 t=6345
+caa1 din6 tau4 	差電頭	c=1 d=0.0328764 t=6345
+caa1 m4 do1 	差唔多	c=2 d=9.14161e-11 t=6345
+caa4 	查	c=1 d=7.58385e-12 t=6345
+caa4 zuk6 	茶軸	c=1 d=0.000735471 t=6345
+caak1 fong1 	測謊	c=1 d=0.0103063 t=6345
+caam1 haau2 	參考	c=2 d=1.42374e-09 t=6345
+caam2 	慘	c=1 d=2.68703e-11 t=6345
+caan1 pun4 	餐盤	c=2 d=4.0815e-09 t=6345
+caan1 teng1 	餐廳	c=1 d=8.07091e-09 t=6345
+caau1 	抄	c=2 d=2.11299e-07 t=6345
+cai4 	齊	c=10 d=3.88873e-05 t=6345
+can4 	陳	c=1 d=3.71956e-13 t=6345
+can4 gun3 hei1 	陳冠希	c=1 d=0.000581442 t=6345
+can4 jik6 seon3 	陳奕迅	c=14 d=0.526754 t=6345
+can4 jing4 	陳凝	c=1 d=0.00130051 t=6345
+can4 taai3 	陳太	c=1 d=0.00098783 t=6345
+can4 wun6 	陳奐	c=0 d=0.00211736 t=6345
+can4 wun6 jan4 	陳奐仁	c=1 d=0.0212797 t=6345
+cat1 	柒	c=1 d=1.07065e-09 t=6345
+cat1 baak3 	七百	c=0 d=7.5617e-08 t=6345
+cat1 baak3 nin4 hau6 	七百年後	c=1 d=7.5996e-07 t=6345
+cau3 	臭	c=1 d=5.47861e-10 t=6345
+ce1 	車	c=1 d=0.0898153 t=6345
+ceng1 dou3 	清到	c=1 d=4.91812e-05 t=6345
+ceng2 	請	c=7 d=0.000492047 t=6345
+ceoi1 	吹	c=1 d=2.40133e-12 t=6345
+ceoi1 seoi2 	吹水	c=3 d=9.06055e-11 t=6345
+ceoi4 	徐	c=3 d=1.17534e-09 t=6345
+ceoi4 	除	c=1 d=3.78297e-06 t=6345
+ceoi4 fei1 	除非	c=1 d=6.3488e-09 t=6345
+ceoi4 saam1 	除衫	c=1 d=7.00197e-14 t=6345
+ceon1 	春	c=2 d=0.466358 t=6345
+ceon4 doi6 	秦代	c=1 d=0.460704 t=6345
+ceon4 gwok3 	秦國	c=1 d=0.25284 t=6345
+ceon4 wui4 	巡迴	c=1 d=6.57718e-13 t=6345
+ceot1 	出	c=8 d=0.800913 t=6345
+ceot1 dou6 	出道	c=2 d=2.91321e-13 t=6345
+ceot1 gwo3 	出過	c=1 d=1.95524e-06 t=6345
+ceot1 lai4 	出嚟	c=3 d=0.000127172 t=6345
+ceot1 m4 dou2 	出唔到	c=2 d=0.0807625 t=6345
+ceot1 meng2 	出名	c=1 d=5.08274e-10 t=6345
+ceot1 min2 	出面	c=1 d=0.00259284 t=6345
+ceot1 seng1 	出聲	c=1 d=8.8967e-08 t=6345
+ci1 caan1 	黐餐	c=1 d=1.74823e-13 t=6345
+ci1 sin3 	黐線	c=2 d=0.0108456 t=6345
+ci1 sin3 lou2 	癡線佬	c=1 d=1.78756e-10 t=6345
+ci3 	次	c=4 d=0.120527 t=6345
+ci3 ci3 	次次	c=1 d=0.0175097 t=6345
+ci4 	遲	c=3 d=3.51812e-05 t=6345
+ci4 di1 	遲啲	c=2 d=0.000108199 t=6345
+ci4 dou3 	遲到	c=1 d=7.45292e-13 t=6345
+ci4 sin6 	慈善	c=2 d=0.0157738 t=6345
+ci4 tung1 loeng6 	磁通量	c=1 d=2.02557e-10 t=6345
+ci5 	似	c=2 d=9.20753e-09 t=6345
+cim1 	簽	c=2 d=0.860708 t=6345
+cin2 	錢	c=6 d=2.99067e-05 t=6345
+cin4 	前	c=2 d=9.42415e-09 t=6345
+cin4 jat6 	前日	c=2 d=0.609803 t=6345
+cin4 min6 	前面	c=1 d=8.72202e-10 t=6345
+cing1 ceoi3 	清脆	c=1 d=2.45492e-07 t=6345
+cing1 cyun4 	清泉	c=1 d=4.45161e-09 t=6345
+cing1 seoi2 waan1 	清水灣	c=2 d=1.5225e-06 t=6345
+cing2 	請	c=1 d=0.737123 t=6345
+cing4 jyun6 	情願	c=1 d=3.24929e-11 t=6345
+cing4 seoi5 	情緒	c=1 d=2.76077e-06 t=6345
+ciu1 cuk1 	超速	c=1 d=1.18652e-12 t=6345
+ciu1 gwo3 	超過	c=0 d=0.00742736 t=6345
+ciu4 	潮	c=1 d=2.21098e-11 t=6345
+co1 jat1 	初一	c=1 d=0.323033 t=6345
+co5 	坐	c=1 d=4.26674e-10 t=6345
+coeng2 	搶	c=1 d=0.0026852 t=6345
+coeng3 hang4 	暢行	c=1 d=0.00219846 t=6345
+coeng4 	場	c=4 d=0.0107911 t=6345
+coeng4 	長	c=3 d=0.985776 t=6345
+coeng4 ci3 	場次	c=2 d=0.000120363 t=6345
+coeng4 dei6 	場地	c=1 d=5.97704e-05 t=6345
+coi3 	蔡	c=1 d=6.80798e-07 t=6345
+coi3 	賽	c=0 d=1.44847e-07 t=6345
+cong4 mei5 	牀尾	c=1 d=0.024972 t=6345
+cong4 tau4 	牀頭	c=1 d=0.0248475 t=6345
+cou1 	操	c=2 d=6.1508e-08 t=6345
+cou1 	粗	c=1 d=0.0020601 t=6345
+cou1 hau2 	粗口	c=1 d=7.98788e-05 t=6345
+cou3 	燥	c=1 d=0.000703108 t=6345
+cou3 kwong4 	躁狂	c=2 d=0.00295372 t=6345
+cou4 	嘈	c=1 d=1.0057e-08 t=6345
+cung1 zik6 	充值	c=1 d=0.0340475 t=6345
+cung4 	重	c=1 d=0.0288686 t=6345
+cung4 lam4 	叢林	c=0 d=1.27827e-07 t=6345
+cung4 loi4 	從來	c=1 d=1.16243e-06 t=6345
+cung4 san1 	重新	c=1 d=0.166127 t=6345
+cung4 seoi3 	重稅	c=1 d=5.10822e-10 t=6345
+cyu2 lei5 	處理	c=1 d=0.0720785 t=6345
+cyu5 	儲	c=2 d=2.03307e-11 t=6345
+cyun4 	全	c=2 d=0.000262568 t=6345
+cyun4 bou6 	全部	c=1 d=0.694197 t=6345
+cyun4 jat6 	全日	c=1 d=0.000175127 t=6345
+cyun4 jim5 	傳染	c=0 d=7.2652e-08 t=6345
+cyun4 lik6 	全力	c=1 d=1.11704e-08 t=6345
+cyun4 syut3 	傳說	c=0 d=4.12995e-10 t=6345
+daa1 din6 waa2 	打電話	c=1 d=1.18959e-13 t=6345
+daa2 	打	c=9 d=0.236074 t=6345
+daa2 co3 	打錯	c=1 d=4.3522e-08 t=6345
+daa2 kaat1 	打卡	c=1 d=9.38025e-13 t=6345
+daa2 laang5 zan3 	打冷震	c=1 d=0.366045 t=6345
+daa2 syun3 	打算	c=3 d=4.13936e-06 t=6345
+daai3 saam1 	帶衫	c=1 d=2.29012e-13 t=6345
+daai6 	大	c=9 d=0.240368 t=6345
+daai6 baa1 	大巴	c=1 d=3.09776e-08 t=6345
+daai6 bou6 fan6 	大部分	c=2 d=0.56836 t=6345
+daai6 daam2 	大膽	c=1 d=3.43301e-11 t=6345
+daai6 din1 	大顛	c=1 d=6.20808e-10 t=6345
+daai6 faai3 wut6 	大快活	c=1 d=2.33599e-11 t=6345
+daai6 faat3 	大法	c=2 d=1.87142e-13 t=6345
+daai6 fong4 	大房	c=1 d=1.88799e-06 t=6345
+daai6 gaa1 	大家	c=3 d=0.10861 t=6345
+daai6 hoi1 	大開	c=2 d=0.0242737 t=6345
+daai6 hoi2 	大海	c=1 d=0.000949097 t=6345
+daai6 hok6 dou6 	大學道	c=1 d=0.00166156 t=6345
+daai6 hou2 do1 	大好多	c=1 d=0.000288735 t=6345
+daai6 hung4 	大紅	c=0 d=1.02072e-07 t=6345
+daai6 hung4 maan6 jau4 	大紅漫遊	c=1 d=1.02584e-06 t=6345
+daai6 kek6 jyun2 	大劇院	c=1 d=1.12865e-12 t=6345
+daai6 koi3 	大概	c=6 d=0.0187793 t=6345
+daai6 lap1 	大粒	c=1 d=8.72054e-08 t=6345
+daai6 lap1 je5 	大粒嘢	c=1 d=1.77405e-09 t=6345
+daai6 loeng6 	大量	c=1 d=1.44897e-10 t=6345
+daai6 luk6 	大陸	c=1 d=2.60673e-07 t=6345
+daai6 si1 	大師	c=1 d=3.4059e-06 t=6345
+daai6 teoi2 	大腿	c=1 d=7.83104e-07 t=6345
+daai6 wok6 	大獲	c=1 d=3.06851e-14 t=6345
+daai6 wok6 	大鑊	c=4 d=3.58919e-05 t=6345
+daai6 wui2 	大會	c=1 d=0.000742862 t=6345
+daai6 zaak2 	大宅	c=2 d=0.00367145 t=6345
+daai6 zin3 	大戰	c=2 d=0.0338248 t=6345
+daan1 	單	c=4 d=0.56001 t=6345
+daan1 ce1 	單車	c=1 d=0.00018046 t=6345
+daan1 hai6 	單系	c=1 d=1.23792e-11 t=6345
+daan1 san1 gau2 	單身狗	c=1 d=0.00134011 t=6345
+daan1 wai2 	單位	c=1 d=1.34752e-09 t=6345
+daan2 	蛋	c=0 d=9.02818e-05 t=6345
+daan6 	但	c=2 d=0.00109172 t=6345
+daan6 	彈	c=1 d=0.000126534 t=6345
+daan6 hai2 	但喺	c=9 d=0.103988 t=6345
+daap3 	答	c=2 d=0.613602 t=6345
+daap3 jing3 	答應	c=1 d=0.000796726 t=6345
+daap3 on3 	答案	c=4 d=7.42352e-07 t=6345
+daat6 jan4 	達人	c=1 d=7.49028e-13 t=6345
+dai1 	低	c=2 d=0.0134335 t=6345
+dai2 zuk1 	牴觸	c=0 d=2.60806e-14 t=6345
+dai2 zuk1 hei2 kek6 	牴觸喜劇	c=1 d=2.62113e-13 t=6345
+dai6 	第	c=3 d=0.0265535 t=6345
+dai6 jat1 	第一	c=2 d=1.01986e-08 t=6345
+dai6 jat1 ci3 	第一次	c=1 d=0.0958472 t=6345
+dai6 jat1 go3 	第一個	c=2 d=7.80733e-12 t=6345
+dai6 jat1 haa6 	第一下	c=1 d=4.57534e-08 t=6345
+dai6 jat1 jat1 	第一一	c=1 d=5.23664e-08 t=6345
+dai6 jat1 loeng6 	第一輛	c=1 d=0.0893673 t=6345
+dai6 jat1 tong4 	第一堂	c=1 d=2.23936e-14 t=6345
+dai6 si4 	第時	c=1 d=2.30082e-09 t=6345
+dak1 	得	c=18 d=1.94794 t=6345
+dak1 go2 	得嗰	c=1 d=0.00196945 t=6345
+dak1 haan4 	得閒	c=7 d=0.00071122 t=6345
+dak1 laa1 	得啦	c=1 d=8.9167e-05 t=6345
+dak1 m4 dak1 	得唔得	c=1 d=0.0426384 t=6345
+dak1 m4 dak1 haan4 	得唔得閒	c=4 d=0.0526026 t=6345
+dak6 bit6 	特別	c=1 d=1.56506e-05 t=6345
+dang1 	登	c=2 d=0.0315873 t=6345
+dang2 	等	c=10 d=0.00676066 t=6345
+dang2 jyu1 	等於	c=1 d=1 t=6341
+dang6 zi2 kei4 	鄧紫棋	c=5 d=6.9867e-07 t=6345
+dap6 	揼	c=1 d=6.72398e-08 t=6345
+dat6 bit6 	突別	c=1 d=3.01399e-09 t=6345
+dat6 hin2 	凸顯	c=1 d=2.07078e-05 t=6345
+dat6 jin4 	突然	c=3 d=1.14487 t=6345
+dat6 jin4 gaan1 	突然間	c=1 d=0.286505 t=6345
+dei6 	地	c=7 d=0.0191589 t=6345
+dei6 fong1 	地方	c=5 d=0.00132192 t=6345
+dei6 fu2 	地府	c=1 d=1.2625e-07 t=6345
+dei6 fu3 	地庫	c=1 d=1.27519e-07 t=6345
+deng2 	頂	c=0 d=1.10592e-09 t=6345
+deoi2 zau2 	隊酒	c=1 d=5.43536e-05 t=6345
+deoi3 	對	c=4 d=0.00193947 t=6345
+deoi3 min6 	對面	c=1 d=1.19494e-07 t=6345
+di1 	啲	c=83 d=3.2206 t=6345
+di1 je5 	啲嘢	c=1 d=2.10279e-09 t=6345
+dik1 	的	c=6 d=0.264653 t=6345
+dik1 kok3 	的確	c=1 d=0.0115047 t=6345
+dik6 si6 nei4 	迪士尼	c=1 d=1.6169e-06 t=6345
+dim2 	點	c=36 d=0.108361 t=6345
+dim2 gaai2 	點解	c=10 d=0.1431 t=6345
+dim2 gaai2 aa2 	點解啊	c=1 d=0.0141931 t=6345
+dim2 joeng2 	點樣	c=1 d=7.23266e-13 t=6345
+dim2 wui2 jau5 	點會有	c=1 d=2.09701e-06 t=6345
+dim2 zi1 	點知	c=2 d=1.9586e-09 t=6345
+din1 	癲	c=6 d=0.239481 t=6345
+din2 jing4 	典型	c=1 d=2.63337e-09 t=6345
+din6 nou5 	電腦	c=1 d=0.0739031 t=6345
+din6 waa2 	電話	c=3 d=4.07309e-09 t=6345
+ding2 	頂	c=1 d=0.000236397 t=6345
+ding6 	定	c=10 d=0.0246539 t=6345
+ding6 hai6 	定係	c=12 d=0.000236375 t=6345
+ding6 hai6 m4 zi1 	定係唔知	c=1 d=1.92613e-06 t=6345
+ding6 kei4 	定期	c=1 d=9.75642e-05 t=6345
+diu1 naa5 sing1 	丟那星	c=1 d=3.24145e-12 t=6345
+diu2 	屌	c=8 d=1.28098 t=6345
+diu2 daa2 	屌打	c=1 d=1.13392e-08 t=6345
+diu2 nei5 lou5 mou2 	屌你老母	c=1 d=4.30963e-10 t=6345
+diu6 	掉	c=2 d=0.235746 t=6345
+do1 	多	c=8 d=3.60515e-05 t=6345
+do1 di1 	多啲	c=3 d=0.0111647 t=6345
+do1 jan4 	多人	c=1 d=0.818731 t=6345
+do1 leon4 do1 	多倫多	c=2 d=0.0023461 t=6345
+do1 nin4 	多年	c=1 d=0.000773179 t=6345
+do1 wai6 	多位	c=1 d=3.70101e-13 t=6345
+do6 toi4 	墮台	c=1 d=0.00109719 t=6345
+dong1 hai6 	當系	c=1 d=0.0675424 t=6345
+dong1 jin4 	當然	c=1 d=2.07649e-08 t=6345
+dong1 nin4 	當年	c=3 d=0.110803 t=6345
+dong3 	當	c=1 d=3.33846e-06 t=6345
+dou1 	都	c=42 d=2.04671 t=6345
+dou1 dak1 	都得	c=1 d=5.95128e-13 t=6345
+dou1 giu3 	都叫	c=1 d=3.51023e-08 t=6345
+dou1 hai6 	都係	c=21 d=0.137541 t=6345
+dou1 ho2 ji5 	都可以	c=1 d=3.63712e-14 t=6345
+dou1 jau5 	都有	c=4 d=6.1612e-05 t=6345
+dou1 jiu3 	都要	c=2 d=1.32575e-08 t=6345
+dou1 m4 dou3 	都唔到	c=1 d=1.14512e-06 t=6345
+dou1 m4 hai6 	都唔係	c=1 d=0.000428594 t=6345
+dou1 m4 zi1 	都唔知	c=2 d=0.66034 t=6345
+dou1 mou4 	都無	c=1 d=0.154896 t=6345
+dou1 waa6 	都話	c=1 d=2.1287e-06 t=6345
+dou2 	倒	c=1 d=1.92181e-09 t=6345
+dou2 coeng4 	賭場	c=0 d=1.43455e-11 t=6345
+dou3 	到	c=39 d=0.17841 t=6345
+dou3 si4 	到時	c=2 d=0.965605 t=6345
+dou3 si4 hau6 	到時候	c=1 d=4.06916e-11 t=6345
+dou6 	度	c=1 d=8.55222e-14 t=6345
+dou6 	道	c=2 d=1.10634e-12 t=6345
+dou6 dak1 	道德	c=3 d=6.65084e-13 t=6345
+dou6 gwo3 	度過	c=1 d=2.10823e-10 t=6345
+duk6 	毒	c=1 d=0.00151855 t=6345
+duk6 	讀	c=8 d=0.341094 t=6345
+duk6 do1 	讀多	c=1 d=2.36437e-06 t=6345
+duk6 gan3 	讀艮	c=1 d=2.30121e-11 t=6345
+duk6 gwo3 	讀過	c=1 d=2.66029e-11 t=6345
+duk6 sit3 	毒舌	c=1 d=0.0125254 t=6345
+duk6 syu1 	讀書	c=1 d=3.86939e-07 t=6345
+dyun3 gu2 	斷估	c=1 d=1.43802e-09 t=6345
+dyun6 	段	c=1 d=0.228779 t=6345
+e6 	誒	c=0 d=0.0222149 t=6345
+faa1 	花	c=1 d=0.000164928 t=6345
+faa1 faa1 gung1 zi2 	花花公子	c=1 d=2.88137e-09 t=6345
+faai3 	塊	c=3 d=0.0120259 t=6345
+faai3 	快	c=4 d=4.89048e-09 t=6345
+faai3 caak1 	快測	c=4 d=3.10439e-12 t=6345
+faai3 min6 	塊面	c=1 d=0.606531 t=6345
+faan1 	翻	c=26 d=1.55079 t=6345
+faan1 dou3 	翻到	c=2 d=0.0162445 t=6345
+faan1 gung1 	返工	c=5 d=0.213912 t=6345
+faan1 heoi3 	翻去	c=1 d=5.83244e-11 t=6345
+faan1 jik6 	翻譯	c=1 d=6.11565e-10 t=6345
+faan2 lai4 	返黎	c=6 d=0.000483808 t=6345
+faan2 zing3 	反正	c=1 d=2.74794e-10 t=6345
+faan4 tai2 	繁體	c=1 d=1.29112e-06 t=6345
+faan4 zik6 	繁殖	c=1 d=0.00114197 t=6345
+faan6 	飯	c=9 d=1.9995 t=6345
+faan6 cau4 	範疇	c=1 d=2.85221e-07 t=6345
+faat3 dyun2 seon3 	發短信	c=0 d=3.24145e-13 t=6345
+faat3 jin6 	發現	c=1 d=0.625002 t=6345
+faat3 long4 	髮廊	c=2 d=1.01227e-06 t=6345
+fan1 	分	c=3 d=0.2334 t=6345
+fan1 bit6 	分別	c=3 d=0.0167496 t=6345
+fan1 lai5 	婚禮	c=1 d=1.84708e-13 t=6345
+fan1 sau2 	分手	c=1 d=0.00154923 t=6345
+fan1 zung1 	分鐘	c=3 d=0.0159664 t=6345
+fan2 pei4 	粉皮	c=1 d=0.831104 t=6345
+fan2 si1 	粉絲	c=5 d=0.00244518 t=6345
+fan2 si1 zeoi6 wui6 	粉絲聚會	c=1 d=2.1353e-13 t=6345
+fan3 	訓	c=2 d=0.0308183 t=6345
+fan3 gaau3 	瞓覺	c=0 d=7.06873e-09 t=6345
+fan5 nou6 dik1 	憤怒的	c=1 d=0.00222055 t=6345
+fan6 	份	c=4 d=5.48932e-08 t=6345
+fau4 kwaa1 	浮誇	c=2 d=2.43843e-08 t=6345
+fei1 	飛	c=2 d=0.00798652 t=6345
+fei1 gei1 	飛機	c=1 d=4.68065e-11 t=6345
+fei1 lam2 	菲林	c=1 d=0.00236968 t=6345
+fei4 ngau4 	肥牛	c=1 d=0.00318278 t=6345
+fei4 po4 	肥婆	c=1 d=1.10592e-08 t=6345
+fei4 zai2 	肥仔	c=2 d=1.11974e-07 t=6345
+fo1 	科	c=2 d=2.37115e-11 t=6345
+fo1 daai6 	科大	c=10 d=6.68051e-08 t=6345
+fo1 hok6 jyun4 	科學園	c=5 d=0.00230864 t=6345
+fo3 lip1 	貨𨋢	c=1 d=1.32746e-09 t=6345
+fong1 faat3 	方法	c=2 d=6.76767e-07 t=6345
+fong3 gung1 	放工	c=3 d=3.62088e-11 t=6345
+fong4 	房	c=1 d=6.22097e-05 t=6345
+fong4 bat1 sing1 fong4 	防不勝防	c=1 d=0.0120342 t=6345
+fong4 gaan1 	房間	c=1 d=0.404542 t=6345
+fu1 sik1 	膚色	c=1 d=0.00644146 t=6345
+fu3 	副	c=1 d=0.644036 t=6345
+fu4 hap6 	符合	c=1 d=3.44904e-07 t=6345
+fu6 fun2 	付款	c=1 d=0.161218 t=6345
+fu6 mou5 	父母	c=2 d=0.17302 t=6345
+fu6 soeng5 	附上	c=1 d=1.35427e-09 t=6345
+fuk6 	伏	c=1 d=2.8463e-12 t=6345
+fung1 	封	c=4 d=0.000156715 t=6345
+fung1 ceoi3 	風趣	c=1 d=0.00226541 t=6345
+fung1 kau4 	風球	c=0 d=1.42395e-12 t=6345
+fung1 kwong4 	瘋狂	c=1 d=3.12996e-12 t=6345
+fung4 can1 	逢嚫	c=2 d=8.80054e-10 t=6345
+fung6 wong4 	鳳凰	c=1 d=3.16852e-09 t=6345
+fut3 lok6 	闊落	c=1 d=0.00027603 t=6345
+gaa1 	加	c=3 d=0.170333 t=6345
+gaa1 	家	c=2 d=0.00631391 t=6345
+gaa1 coeng4 	加場	c=1 d=0.472367 t=6345
+gaa1 jan4 	家人	c=1 d=1.59337e-10 t=6345
+gaa1 naa4 daai6 	加拿大	c=7 d=0.876052 t=6345
+gaa2 	假	c=3 d=0.0209347 t=6345
+gaa2 gau2 	假狗	c=1 d=0.000182274 t=6345
+gaa3 	價	c=2 d=0.000120282 t=6345
+gaa3 	架	c=5 d=0.0183156 t=6345
+gaa3 cin2 	價錢	c=1 d=1.48181e-09 t=6345
+gaa3 fe1 	咖啡	c=1 d=1.9858e-12 t=6345
+gaa3 laa3 	㗎喇	c=1 d=0.000461975 t=6345
+gaa3 maa5 ji4 	價碼兒	c=0 d=1.05453e-08 t=6345
+gaa3 maa5 ji4 tung4 	價碼兒同	c=1 d=1.05982e-07 t=6345
+gaa3 wo3 	㗎喎	c=1 d=5.13382e-10 t=6345
+gaai1 	街	c=1 d=0.000520875 t=6345
+gaai2 gu3 	解僱	c=1 d=2.19995e-11 t=6345
+gaai2 sik1 	解釋	c=3 d=2.47626e-07 t=6345
+gaai2 sik1 m4 dou2 	解釋唔到	c=1 d=2.30043e-07 t=6345
+gaai3 	屆	c=2 d=0.115903 t=6345
+gaai3 	戒	c=2 d=0.00193664 t=6345
+gaai3 ji3 	介意	c=0 d=0.000351752 t=6345
+gaai3 siu6 	介紹	c=1 d=0.398519 t=6345
+gaak3 	格	c=1 d=3.72792e-10 t=6345
+gaak3 	隔	c=1 d=0.000114493 t=6345
+gaak3 zai2 	格仔	c=1 d=0.000100034 t=6345
+gaam2 	減	c=1 d=2.68566e-05 t=6345
+gaam3 gaai3 	尷尬	c=1 d=0.000159256 t=6345
+gaan2 	揀	c=3 d=0.226695 t=6345
+gaan2 soeng1 	揀相	c=1 d=0.00321477 t=6345
+gaan3 	間	c=11 d=0.131835 t=6345
+gaap3 	夾	c=4 d=3.39064e-05 t=6345
+gaau1 	交	c=3 d=0.0142521 t=6345
+gaau1 jik6 	交易	c=1 d=2.55555e-09 t=6345
+gaau1 lau4 	交流	c=1 d=6.47595e-07 t=6345
+gaau1 zai3 	交際	c=1 d=0.000164106 t=6345
+gaau2 	搞	c=1 d=1.06274e-10 t=6345
+gaau2 dim6 	搞掂	c=3 d=0.0553523 t=6345
+gaau2 dou3 	搞到	c=2 d=0.00188583 t=6345
+gaau3 	教	c=3 d=2.63025e-07 t=6345
+gaau3 hok6 	教學	c=0 d=1.27849e-09 t=6345
+gai1 zai2 	雞仔	c=2 d=0.00123256 t=6345
+gai3 	計	c=4 d=0.0193512 t=6345
+gam1 	今	c=1 d=1.76065e-08 t=6345
+gam1 ci3 	今次	c=1 d=4.87167e-11 t=6345
+gam1 go3 sing1 kei4 	今個星期	c=3 d=3.17068e-08 t=6345
+gam1 jat6 	今日	c=16 d=0.151235 t=6345
+gam1 jyu4 	金魚	c=1 d=3.52842e-10 t=6345
+gam1 m4 	甘唔	c=1 d=4.03978e-14 t=6345
+gam1 maan5 	今晚	c=19 d=0.0247549 t=6345
+gam1 nin4 	今年	c=4 d=0.301203 t=6345
+gam1 pun4 	金盆	c=1 d=0.0122161 t=6345
+gam1 ziu1 	今朝	c=3 d=2.37755e-08 t=6345
+gam2 go1 	錦歌	c=1 d=2.02626e-14 t=6345
+gam2 nei5 	噉你	c=1 d=0.0184997 t=6345
+gam2 sau6 	感受	c=1 d=1 t=6331
+gam2 ze6 	感謝	c=1 d=1.43777e-07 t=6345
+gam3 	咁	c=51 d=2.18535 t=6345
+gam3 do1 jan4 	咁多人	c=1 d=0.143704 t=6345
+gam3 do1 jat6 	咁多日	c=1 d=1.28534e-12 t=6345
+gam3 ge3 waa6 	咁嘅話	c=1 d=0.000452827 t=6345
+gam3 lan2 	咁撚	c=1 d=1.17695e-05 t=6345
+gan1 	根	c=6 d=6.44491e-10 t=6345
+gan1 fung1 	跟風	c=1 d=8.39743e-05 t=6345
+gan1 geoi3 	根據	c=1 d=0.127454 t=6345
+gan1 nei5 	跟你	c=1 d=4.10935e-09 t=6345
+gan1 zyu6 	跟住	c=1 d=4.66697e-06 t=6345
+gan2 	緊	c=12 d=0.0418752 t=6345
+gan6 paai4 	近排	c=2 d=5.53061e-05 t=6345
+gang1 san1 	更新	c=1 d=2.45618e-13 t=6345
+gang2 hai6 	梗係	c=1 d=2.09736e-08 t=6345
+gang3 do1 	更多	c=1 d=2.4796e-07 t=6345
+gang3 gaa1 	更加	c=4 d=6.96715e-10 t=6345
+gau1 	鳩	c=7 d=0.162668 t=6345
+gau2 	狗	c=1 d=7.178e-12 t=6345
+gau2 lung4 	九龍	c=1 d=1.02072e-06 t=6345
+gau3 	夠	c=3 d=2.88039e-05 t=6345
+gau3 daam2 sei2 	夠膽死	c=1 d=0.0108347 t=6345
+gau3 ging2 	究竟	c=2 d=0.276651 t=6345
+gau6 	舊	c=1 d=0.637628 t=6345
+ge3 	嘅	c=103 d=2.05086 t=6345
+ge3 je5 	嘅嘢	c=1 d=3.83023e-05 t=6345
+ge3 me1 	嘅咩	c=3 d=0.00285327 t=6345
+ge3 si4 hau6 	嘅時候	c=1 d=7.2652e-07 t=6345
+ge3 waa2 	嘅話	c=25 d=0.822535 t=6345
+gei1 	機	c=5 d=0.000269732 t=6345
+gei1 bun2 soeng6 	基本上	c=3 d=3.89873e-08 t=6345
+gei1 piu3 	機票	c=1 d=7.17434e-06 t=6345
+gei1 wui6 	機會	c=2 d=0.0327964 t=6345
+gei2 	幾	c=10 d=0.51396 t=6345
+gei2 ci3 	幾次	c=1 d=1.52642e-05 t=6345
+gei2 dim2 	幾點	c=13 d=0.0334392 t=6345
+gei2 do1 	幾多	c=8 d=0.0515415 t=6345
+gei2 do1 go3 	幾多個	c=1 d=7.36097e-14 t=6345
+gei2 do1 jan4 	幾多人	c=1 d=6.56132e-14 t=6345
+gei2 go3 	幾個	c=2 d=6.72284e-06 t=6345
+gei2 haa6 	幾下	c=1 d=0.26054 t=6345
+gei2 hou2 	幾好	c=3 d=0.0359725 t=6345
+gei2 jat6 	幾日	c=1 d=7.6799e-13 t=6345
+gei2 nin4 	幾年	c=1 d=3.77385e-07 t=6345
+gei2 si4 	幾時	c=6 d=0.953293 t=6345
+gei3 	記	c=3 d=2.08363e-09 t=6345
+gei3 co3 	記錯	c=1 d=0.271173 t=6345
+gei3 dak1 	記得	c=4 d=2.41181e-08 t=6345
+gei3 jik1 	記憶	c=1 d=3.54611e-10 t=6345
+gei3 jin4 	既然	c=1 d=8.0918e-10 t=6345
+geng1 	驚	c=1 d=1.80958e-07 t=6345
+geoi1 	居	c=1 d=6.52748e-12 t=6345
+geoi2 baan6 	舉辦	c=3 d=1.92977e-12 t=6345
+geoi2 hang4 	舉行	c=4 d=0.000808767 t=6345
+geoi3 	句	c=2 d=1.7649e-07 t=6345
+geoi3 zi2 	句子	c=2 d=0.408608 t=6345
+geoi6 daan2 	巨蛋	c=0 d=0.00213864 t=6345
+gin1 	堅	c=1 d=0.00394621 t=6345
+gin3 	見	c=1 d=4.878e-05 t=6345
+gin3 dou2 	見到	c=5 d=0.902153 t=6345
+gin3 gwo3 	見過	c=1 d=0.557106 t=6345
+gin3 ji5 	建議	c=5 d=1.63731e-05 t=6345
+gin3 m4 dou3 	見唔到	c=1 d=0.0387742 t=6345
+gin6 	件	c=2 d=2.16776e-05 t=6345
+ging1 gwo3 	經過	c=1 d=0.000769323 t=6345
+ging1 jat1 si6 	經一事	c=1 d=5.17291e-11 t=6345
+ging1 jim6 	經驗	c=2 d=3.85028e-07 t=6345
+ging1 lik6 	經歷	c=1 d=5.34152e-06 t=6345
+ging2 jin4 	竟然	c=3 d=0.0759578 t=6345
+ging3 zang1 	競爭	c=1 d=0.0112206 t=6345
+ging6 	勁	c=6 d=0.308856 t=6345
+ging6 do1 	勁多	c=1 d=0.367879 t=6345
+ging6 go1 	勁歌	c=0 d=7.61668e-05 t=6345
+ging6 go1 wui5 	勁歌會	c=1 d=0.000765486 t=6345
+git3 fan1 	結婚	c=1 d=0.0275983 t=6345
+git3 gwo2 	結果	c=5 d=0.215168 t=6345
+git3 ji4 loeng6 	潔而亮	c=1 d=2.74131e-11 t=6345
+git3 sik1 	結識	c=1 d=0.0871609 t=6345
+git6 	杰	c=3 d=5.86033e-12 t=6345
+giu3 	叫	c=17 d=1.95417 t=6345
+giu3 dak1 	叫得	c=1 d=0.000303539 t=6345
+giu3 jan4 	叫人	c=1 d=0.351692 t=6345
+giu3 ngo5 	叫我	c=1 d=8.65906e-13 t=6345
+go1 	哥	c=1 d=5.27741e-11 t=6345
+go1 	歌	c=5 d=0.0552049 t=6345
+go1 daan1 	歌單	c=1 d=4.38459e-07 t=6345
+go1 mai4 	歌迷	c=2 d=0.0172077 t=6345
+go1 sau2 	歌手	c=1 d=2.04134e-13 t=6345
+go1 sing1 	歌聲	c=1 d=7.47094e-12 t=6345
+go2 	嗰	c=19 d=0.828047 t=6345
+go2 bin1 	嗰邊	c=6 d=1.20334e-05 t=6345
+go2 bou6 	嗰部	c=1 d=0.000300519 t=6345
+go2 di1 	嗰啲	c=21 d=0.731294 t=6345
+go2 dou6 	嗰度	c=2 d=0.00597602 t=6345
+go2 fan6 	嗰份	c=1 d=1.14216e-05 t=6345
+go2 gaan3 	嗰間	c=2 d=0.000422213 t=6345
+go2 geoi3 	嗰句	c=1 d=8.76574e-10 t=6345
+go2 go3 	嗰個	c=22 d=0.099792 t=6345
+go2 jat6 	嗰日	c=1 d=0.000488095 t=6345
+go2 tiu4 	嗰條	c=1 d=1.83219e-06 t=6345
+go2 wai6 	嗰位	c=1 d=6.96586e-12 t=6345
+go2 zan6 si4 	嗰陣時	c=9 d=7.43514e-06 t=6345
+go3 	個	c=124 d=5.84619 t=6345
+go3 bin1 	個邊	c=1 d=9.17233e-14 t=6345
+go3 dou6 	個度	c=2 d=9.06423e-11 t=6345
+go3 go3 	個個	c=2 d=0.900325 t=6345
+go3 jat6 	個日	c=1 d=0.000173384 t=6345
+go3 ji4 	個兒	c=1 d=3.10631e-11 t=6345
+go3 maan5 	個晚	c=1 d=1.08421e-10 t=6345
+go3 meng2 	個名	c=1 d=1.38474e-06 t=6345
+goi1 jung6 	該用	c=1 d=9.44845e-10 t=6345
+goi2 	改	c=6 d=0.231782 t=6345
+goi2 bin3 	改變	c=1 d=1.50421e-09 t=6345
+goi2 faan1 	改翻	c=1 d=3.45856e-10 t=6345
+goi2 jung6 	改用	c=1 d=9.49581e-10 t=6345
+gok3 dak1 	覺得	c=6 d=0.31086 t=6345
+gok3 dou6 	角度	c=1 d=2.13384e-05 t=6345
+gok3 saan2 dung1 sai1 	各散東西	c=1 d=5.08101e-06 t=6345
+gok3 wai2 	各位	c=1 d=1.55376e-08 t=6345
+gon1 zeng6 	乾淨	c=1 d=0.436049 t=6345
+gong1 zaak6 man4 	江澤民	c=2 d=2.81143e-07 t=6345
+gong2 	講	c=15 d=0.0987193 t=6345
+gong2 dak1 	講得	c=1 d=0.0357931 t=6345
+gong2 gan2 	講緊	c=3 d=7.27763e-09 t=6345
+gong2 je5 	講嘢	c=2 d=3.87227e-08 t=6345
+gong2 me1 	講咩	c=1 d=2.69398e-12 t=6345
+gong2 neoi2 	港女	c=1 d=0.0278757 t=6345
+gong2 siu3 	講笑	c=1 d=0.20089 t=6345
+gong2 zan1 	講真	c=4 d=0.0273366 t=6345
+gou1 	高	c=1 d=3.34074e-14 t=6345
+gou3 baak6 	告白	c=1 d=0.00135358 t=6345
+gu2 	估	c=3 d=0.0102047 t=6345
+gu2 dou2 	估到	c=1 d=3.42472e-12 t=6345
+gu2 haa6 	估下	c=1 d=0.00367942 t=6345
+gu2 zai2 	故仔	c=1 d=0.0105145 t=6345
+gu3 	故	c=1 d=5.41101e-11 t=6345
+guk1 gung1 	鞠躬	c=1 d=4.90792e-10 t=6345
+gun1 zung3 	觀衆	c=1 d=0.00115345 t=6345
+gun2 	館	c=1 d=8.48327e-07 t=6345
+gun3 ming4 	冠名	c=0 d=1.48232e-14 t=6345
+gun3 ming4 zaan3 zo6 	冠名贊助	c=1 d=1.48975e-13 t=6345
+gung1 	工	c=3 d=0.856424 t=6345
+gung1 cing4 si1 	工程師	c=2 d=0.869358 t=6345
+gung1 fo3 	功課	c=1 d=0.394554 t=6345
+gung1 geoi6 jan4 	工具人	c=1 d=2.92492e-09 t=6345
+gung1 hoi1 	公開	c=1 d=2.22781e-12 t=6345
+gung1 jip6 	工業	c=1 d=1.30117e-09 t=6345
+gung1 jip6 daai6 haa6 	工業大廈	c=1 d=1.28823e-09 t=6345
+gung1 nei5 	供你	c=1 d=1.41661e-09 t=6345
+gung1 si1 	公司	c=6 d=0.132064 t=6345
+gung1 zok3 	工作	c=2 d=7.77845e-07 t=6345
+gung1 zung3 	公衆	c=1 d=2.26148e-12 t=6345
+gwaa3 	掛	c=5 d=0.0441405 t=6345
+gwaa3 zyu6 	掛住	c=2 d=0.00103954 t=6345
+gwaai3 	怪	c=2 d=1.56413e-09 t=6345
+gwaan1 hai6 	關係	c=1 d=4.85744e-06 t=6345
+gwaan3 	慣	c=3 d=0.00155864 t=6345
+gwai2 hai6 	鬼係	c=1 d=6.16116e-09 t=6345
+gwai3 	貴	c=2 d=0.0900434 t=6345
+gwai6 	櫃	c=1 d=4.72527e-05 t=6345
+gwat1 zi2 	橘子	c=1 d=5.67569e-14 t=6345
+gwo3 	過	c=5 d=0.0180431 t=6345
+gwo3 hei3 	過氣	c=1 d=5.70316e-12 t=6345
+gwo3 je2 	過夜	c=1 d=6.20913e-12 t=6345
+gwo3 zo2 	過左	c=1 d=1.32382e-07 t=6345
+gwo3 zo2 sou2 	過左數	c=1 d=1.33044e-06 t=6345
+gwok3 fu3 sing4 	郭富城	c=1 d=0.0139818 t=6345
+gwok3 gaa1 	國家	c=1 d=6.44694e-13 t=6345
+gwok3 jyu5 	國語	c=1 d=2.54982e-12 t=6345
+gwok3 zai3 	國際	c=1 d=2.60717e-09 t=6345
+gwong2 coeng4 	廣場	c=3 d=0.00281496 t=6345
+gwong2 dung1 waa2 	廣東話	c=1 d=2.62747e-12 t=6345
+gyun2 	卷	c=3 d=0.000472566 t=6345
+haa1 	蝦	c=1 d=0.000197455 t=6345
+haa5 haa5 	下下	c=1 d=6.70662e-07 t=6345
+haa6 	下	c=28 d=0.157372 t=6345
+haa6 baan1 	下班	c=1 d=0.402524 t=6345
+haa6 ci3 	下次	c=2 d=0.00433948 t=6345
+haa6 coeng4 	下場	c=1 d=9.85951e-11 t=6345
+haa6 go3 	下個	c=2 d=1.04651e-07 t=6345
+haa6 min6 	下面	c=4 d=0.822843 t=6345
+haa6 ng5 	下午	c=1 d=3.05954e-09 t=6345
+haa6 nin2 	下年	c=4 d=0.000887402 t=6345
+haa6 sing1 kei4 	下星期	c=1 d=4.54077e-07 t=6345
+haak3 	嚇	c=1 d=3.99687e-06 t=6345
+haam3 	喊	c=1 d=0.782705 t=6345
+haam4 zip3 	銜接	c=1 d=2.83259e-14 t=6345
+haan4 	閒	c=1 d=0.0428521 t=6345
+haan6 ding6 	限定	c=1 d=0.00134683 t=6345
+haang1 hau2 	坑口	c=4 d=2.57601e-10 t=6345
+haang4 	行	c=1 d=6.33241e-08 t=6345
+haang4 dou3 	行到	c=2 d=1.8506e-06 t=6345
+haang4 saan1 	行山	c=1 d=0.00177315 t=6345
+haau2 	考	c=1 d=7.60348e-13 t=6345
+haau2 leoi6 	考慮	c=4 d=1.84623e-09 t=6345
+haau2 si3 	考試	c=1 d=2.84533e-08 t=6345
+haau6 gwo2 	效果	c=3 d=0.0422517 t=6345
+hai1 	閪	c=1 d=1.81865e-07 t=6345
+hai1 mai4 	閪迷	c=2 d=0.0709926 t=6345
+hai2 	喺	c=53 d=1.23941 t=6345
+hai2 gwaa3 	喺啩	c=1 d=1.90696e-06 t=6345
+hai6 	係	c=147 d=6.45921 t=6345
+hai6 	系	c=1 d=8.91821e-07 t=6345
+hai6 lit6 	系列	c=1 d=0.151072 t=6345
+hai6 mai6 	係咪	c=24 d=0.482665 t=6345
+hai6 mat1 	係乜	c=1 d=5.38494e-13 t=6345
+hai6 me1 	係咩	c=1 d=5.03217e-10 t=6345
+hai6 si4 hau6 	係時候	c=1 d=1.81457e-10 t=6345
+hai6 tung2 	系統	c=1 d=7.44785e-05 t=6345
+hak1 	可	c=0 d=0.00137736 t=6345
+hak1 	黑	c=1 d=0.013912 t=6345
+hak1 sik1 	黑色	c=2 d=4.18506e-05 t=6345
+hak1 tau4 	黑頭	c=1 d=0.00660453 t=6345
+hak1 waa2 min2 	可畫面	c=1 d=0.0138427 t=6345
+han2 soeng2 jiu3 	很想要	c=1 d=8.15202e-09 t=6345
+hang2 ding6 	肯定	c=2 d=0.000503282 t=6345
+hang2 ding6 hai6 	肯定係	c=1 d=2.29605e-14 t=6345
+hang4 sai2 	行駛	c=1 d=0.000483239 t=6345
+hang6 zoi1 lok6 wo6 	幸災樂禍	c=1 d=0.0230521 t=6345
+hap6 	合	c=2 d=0.000206545 t=6345
+hap6 	盒	c=2 d=0.00042148 t=6345
+hap6 gung6 	合共	c=1 d=1.44523e-09 t=6345
+hau4 lung4 	喉嚨	c=1 d=0.000160856 t=6345
+hau5 fan2 	厚粉	c=1 d=0.00657159 t=6345
+hau6 	後	c=6 d=0.162885 t=6345
+hau6 gwo2 	後果	c=2 d=0.00120958 t=6345
+hau6 min6 	後面	c=2 d=0.0136366 t=6345
+hau6 nin2 	後年	c=1 d=4.15998e-06 t=6345
+hau6 saang1 	後生	c=1 d=0.113042 t=6345
+hau6 sou3 	後數	c=1 d=2.37089e-09 t=6345
+hau6 toi4 	後臺	c=1 d=0.024234 t=6345
+hei1 	熙	c=2 d=9.76152e-12 t=6345
+hei1 mong6 	希望	c=8 d=0.420622 t=6345
+hei2 fun1 	喜歡	c=0 d=9.85951e-12 t=6345
+hei2 fun1 jat1 go3 jan4 	喜歡一個人	c=1 d=9.90893e-11 t=6345
+hei2 kek6 	喜劇	c=0 d=2.60806e-14 t=6345
+hei2 san1 	起身	c=1 d=7.41575e-13 t=6345
+hei3 fei1 	戲飛	c=1 d=1.96637e-14 t=6345
+heoi2 siu2 ze2 	許小姐	c=1 d=5.06789e-05 t=6345
+heoi3 	去	c=45 d=1.41055 t=6345
+hin2 ging3 tai2 juk6 gun2 	顯徑體育館	c=1 d=3.09029e-09 t=6345
+hin2 kaat1 	顯卡	c=0 d=3.57311e-12 t=6345
+hin2 kaat1 siu2 uk1 tiu4 	顯卡小屋條	c=1 d=3.59102e-11 t=6345
+hing1 sung1 	輕鬆	c=1 d=1.17072e-06 t=6345
+hing1 sung1 laa1 	輕鬆啦	c=1 d=1.15364e-05 t=6345
+hing3 ceoi3 	興趣	c=5 d=0.194009 t=6345
+hing3 zuk1 	慶祝	c=2 d=0.00748391 t=6345
+ho2 	可	c=0 d=4.66936e-13 t=6345
+ho2 ji5 	可以	c=48 d=0.679539 t=6345
+ho2 m4 ho2 ji5 	可唔可以	c=1 d=4.69276e-12 t=6345
+ho2 nang4 	可能	c=5 d=0.0907252 t=6345
+ho4 	河	c=1 d=3.36445e-09 t=6345
+ho4 gun1 	荷官	c=1 d=1.46353e-10 t=6345
+ho4 lei5 wut6 	荷里活	c=1 d=5.31669e-10 t=6345
+hoe1 	靴	c=2 d=6.0748e-13 t=6345
+hoeng1 gong2 	香港	c=33 d=1.30259 t=6345
+hoeng1 gong2 dak6 bit6 hang4 zing3 keoi1 	香港特別行政區	c=1 d=3.0291e-09 t=6345
+hoeng1 gong2 fo1 gei6 daai6 hok6 	香港科技大學	c=2 d=1.00723e-06 t=6345
+hoeng1 gong2 jan4 	香港人	c=1 d=2.16197e-12 t=6345
+hoeng1 gong2 tin1 man4 toi4 	香港天文臺	c=1 d=1.42395e-11 t=6345
+hoi1 	開	c=11 d=0.275542 t=6345
+hoi1 ci2 	開始	c=9 d=0.398614 t=6345
+hoi1 coeng4 	開場	c=1 d=1.73443e-08 t=6345
+hoi1 fong3 	開放	c=1 d=0.852144 t=6345
+hoi1 kai2 	開啓	c=1 d=2.07219e-13 t=6345
+hoi1 sam1 	開心	c=2 d=0.00275323 t=6345
+hoi1 sam1 hoi1 sam1 	開心開心	c=1 d=5.38219e-07 t=6345
+hoi1 wui2 	開會	c=1 d=1.58953e-11 t=6345
+hoi2 naam4 gai1 faan6 	海南雞飯	c=1 d=1.43851e-13 t=6345
+hoi2 pong4 	海傍	c=5 d=0.0209647 t=6345
+hok6 baa3 	學霸	c=1 d=1 t=6327
+hok6 dim3 	學店	c=1 d=1.70067e-12 t=6345
+hok6 haau6 	學校	c=3 d=2.60572e-08 t=6345
+hok6 wai2 	學位	c=1 d=5.6445e-08 t=6345
+hon2 gin3 	罕見	c=1 d=6.99959e-10 t=6345
+hon3 bou2 	漢堡	c=0 d=7.95075e-10 t=6345
+hon3 goi1 	看該	c=1 d=0.396531 t=6345
+hon3 zi6 	漢字	c=1 d=0.40657 t=6345
+hon4 gwok3 	韓國	c=0 d=0.00209629 t=6345
+hon4 gwok3 jyu2 	韓國魚	c=1 d=0.021068 t=6345
+hong4 	行	c=2 d=0.0110536 t=6345
+hou2 	好	c=27 d=1.76741 t=6345
+hou2 caa1 	好差	c=1 d=0.00184551 t=6345
+hou2 ci5 	好似	c=36 d=2.03348 t=6345
+hou2 coi2 	好彩	c=2 d=0.0100305 t=6345
+hou2 daai6 	好大	c=1 d=4.90625e-06 t=6345
+hou2 dak1 	好得	c=1 d=4.26529e-06 t=6345
+hou2 di1 	好啲	c=3 d=0.000370744 t=6345
+hou2 do1 	好多	c=9 d=0.354072 t=6345
+hou2 do1 jan4 	好多人	c=1 d=3.29044e-12 t=6345
+hou2 do1 si4 hau6 	好多時候	c=1 d=0.218712 t=6345
+hou2 faai3 	好快	c=1 d=3.73821e-13 t=6345
+hou2 fung1 kau4 	好風球	c=1 d=1.43109e-11 t=6345
+hou2 ge3 	好嘅	c=1 d=2.52487e-14 t=6345
+hou2 gwai3 	好貴	c=1 d=0.000178665 t=6345
+hou2 hou2 	好好	c=1 d=2.15639e-11 t=6345
+hou2 hou2 sik6 	好好食	c=1 d=1.44572e-13 t=6345
+hou2 laa1 	好啦	c=2 d=1.31067e-06 t=6345
+hou2 lan2 	好撚	c=1 d=0.0873716 t=6345
+hou2 lan2 gwai3 	好撚貴	c=1 d=0.878095 t=6345
+hou2 mong4 	好忙	c=1 d=4.3755e-12 t=6345
+hou2 naan4 	好難	c=1 d=7.91244e-11 t=6345
+hou2 ngaan5 	好眼	c=0 d=0.00443785 t=6345
+hou2 ngaan5 fan3 	好眼訓	c=1 d=0.044601 t=6345
+hou2 noi6 	好內	c=1 d=1.41979e-06 t=6345
+hou2 paa3 	好怕	c=1 d=2.63929e-06 t=6345
+hou2 san1 fu2 	好辛苦	c=1 d=4.89442e-07 t=6345
+hou2 sik1 	好識	c=2 d=3.85296e-08 t=6345
+hou2 siu2 sou3 	好少數	c=1 d=1.85155e-12 t=6345
+hou2 soeng2 	好想	c=1 d=0.0475963 t=6345
+hou2 suk6 	好熟	c=1 d=2.1616e-10 t=6345
+hou2 tai2 	好睇	c=1 d=0.0913623 t=6345
+hou2 teoi1 gaai3 	好推介	c=1 d=9.93119e-08 t=6345
+hou2 waan2 	好玩	c=1 d=1.36129e-11 t=6345
+hou2 zeng3 	好正	c=1 d=1.84582e-05 t=6345
+hou3 kei4 	好奇	c=1 d=6.46363e-14 t=6345
+hou3 sik1 	好色	c=1 d=3.39942e-13 t=6345
+hou6 	號	c=25 d=0.028886 t=6345
+hou6 maa5 	號碼	c=5 d=0.427415 t=6345
+huk1 	哭	c=3 d=0.00719046 t=6345
+hung1 gaan1 gam2 	空間感	c=1 d=0.000287295 t=6345
+hung4 	熊	c=1 d=1.46682e-07 t=6345
+hung4 ham3 	紅磡	c=1 d=1.15106e-08 t=6345
+hung4 luk6 dang1 	紅綠燈	c=1 d=0.425283 t=6345
+hyut3 hau2 pan3 jan4 	血口噴人	c=1 d=1.80989e-09 t=6345
+in1 toeng2 	intern	c=0 d=0.018452 t=6345
+in1 toeng2 e6 liu5 	intern誒了	c=1 d=0.185444 t=6345
+jaa5 si6 	也是	c=1 d=2.8175e-10 t=6345
+jam2 	飲	c=2 d=4.01197e-12 t=6345
+jam2 zau2 	飲酒	c=1 d=0.319819 t=6345
+jam6 gwan1 syun2 zaak6 	任君選擇	c=1 d=0.000363402 t=6345
+jam6 ho4 	任何	c=1 d=0.00107547 t=6345
+jam6 ngo5 hang4 	任我行	c=1 d=7.52398e-07 t=6345
+jan1 wai6 	因爲	c=6 d=0.217621 t=6345
+jan2 m4 zyu6 	忍唔住	c=1 d=0.000259956 t=6345
+jan3 nei4 	印尼	c=1 d=0.0780817 t=6345
+jan3 zoeng6 	印象	c=1 d=3.29727e-07 t=6345
+jan4 	人	c=28 d=1.45533 t=6345
+jan4 	仁	c=0 d=0.00211736 t=6345
+jan4 dei6 	人地	c=2 d=7.78221e-14 t=6345
+jan4 gung1 	人工	c=1 d=0.0206508 t=6345
+jan4 mat2 	人物	c=0 d=0.019593 t=6345
+jan4 tai2 	人體	c=1 d=8.25526e-10 t=6345
+jan4 wai4 	人爲	c=1 d=0.00111936 t=6345
+jan5 jung6 	引用	c=1 d=0.00096827 t=6345
+jap6 	入	c=13 d=0.154316 t=6345
+jap6 dou3 	入到	c=1 d=0.000122182 t=6345
+jap6 heoi3 	入去	c=1 d=2.19958e-09 t=6345
+jap6 hong4 	入行	c=1 d=0.00752142 t=6345
+jap6 lai4 	入嚟	c=1 d=1.26599e-10 t=6345
+jap6 m4 dou2 	入唔到	c=1 d=7.66137e-14 t=6345
+jap6 min4 	入眠	c=1 d=0.810584 t=6345
+jat1 	一	c=3 d=7.6626e-09 t=6345
+jat1 bun1 	一般	c=1 d=1.49335e-12 t=6345
+jat1 cai3 	一切	c=4 d=0.0046135 t=6345
+jat1 cai3 waan4 hou2 	一切還好	c=1 d=0.0231676 t=6345
+jat1 ci3 	一次	c=3 d=1.25073e-05 t=6345
+jat1 cin1 go3 	一千個	c=2 d=4.06556e-09 t=6345
+jat1 di1 	一啲	c=2 d=5.21537e-11 t=6345
+jat1 ding6 	一定	c=1 d=1.33067e-08 t=6345
+jat1 fan6 	一份	c=1 d=6.74139e-09 t=6345
+jat1 go3 	一個	c=7 d=1.22852 t=6345
+jat1 go3 jyut6 	一個月	c=1 d=0.0303487 t=6345
+jat1 hoeng3 	一向	c=1 d=0.0168231 t=6345
+jat1 jat6 	一日	c=1 d=0.000115067 t=6345
+jat1 jyut6 	一月	c=2 d=0.0205756 t=6345
+jat1 lap1 	一粒	c=0 d=9.02809e-05 t=6345
+jat1 lap1 daan2 	一粒蛋	c=1 d=0.000907334 t=6345
+jat1 loeng6 	一輛	c=0 d=0.00889216 t=6345
+jat1 mei2 	一味	c=1 d=6.57382e-07 t=6345
+jat1 nin4 	一年	c=4 d=0.00831562 t=6345
+jat1 sang1 	一生	c=1 d=4.08886e-09 t=6345
+jat6 	日	c=13 d=0.0152117 t=6345
+jat6 bun2 	日本	c=2 d=1.17108e-05 t=6345
+jat6 jat6 	日日	c=2 d=0.000219837 t=6345
+jat6 kei4 	日期	c=0 d=3.51812e-06 t=6345
+jat6 ngau4 	日牛	c=1 d=1 t=6335
+jat6 zi2 	日子	c=1 d=4.50645e-06 t=6345
+jau4 	由	c=3 d=1.30053e-09 t=6345
+jau4 kei4 si6 	尤其是	c=1 d=9.35125e-06 t=6345
+jau4 lei4 fan6 zi2 	遊離份子	c=1 d=0.0219278 t=6345
+jau4 zau2 	遊走	c=1 d=2.27715e-05 t=6345
+jau5 	友	c=1 d=5.21319e-14 t=6345
+jau5 	有	c=74 d=4.03286 t=6345
+jau5 bin1 go3 	有邊個	c=1 d=4.08955e-11 t=6345
+jau5 ceoi3 	有趣	c=1 d=0.440432 t=6345
+jau5 dak1 	有得	c=1 d=0.000466618 t=6345
+jau5 dak1 keoi5 	有得佢	c=1 d=1.32106e-11 t=6345
+jau5 di1 	有啲	c=11 d=0.0315576 t=6345
+jau5 dim2 ji4 	有點兒	c=1 d=0.379083 t=6345
+jau5 fan2 	有份	c=2 d=9.6633e-07 t=6345
+jau5 gei1 wui2 	有機會	c=2 d=0.000106777 t=6345
+jau5 go3 	有個	c=5 d=0.288062 t=6345
+jau5 gwaan1 	有關	c=1 d=5.9349e-10 t=6345
+jau5 hing1 ceoi3 	有興趣	c=1 d=1.59722e-09 t=6345
+jau5 jan4 	有人	c=2 d=9.44118e-11 t=6345
+jau5 kwai5 	有愧	c=1 d=1.19206e-08 t=6345
+jau5 me1 so2 wai6 	有咩所謂	c=1 d=8.56998e-09 t=6345
+jau5 mou4 	有無	c=16 d=0.000760433 t=6345
+jau5 mou4 hing1 ceoi3 	有無興趣	c=2 d=1.60081e-06 t=6345
+jau5 mou4 jung6 	有無用	c=1 d=2.44351e-11 t=6345
+jau5 mou4 tou4 	有無圖	c=1 d=1.94046e-05 t=6345
+jau5 paai4 	有排	c=1 d=0.00324708 t=6345
+jau5 pang4 jau5 	有朋友	c=1 d=0.00151098 t=6345
+jau5 tiu4 	有條	c=1 d=2.08151e-07 t=6345
+jau6 	又	c=9 d=0.946504 t=6345
+jau6 bin1 	右邊	c=1 d=0.0608101 t=6345
+jau6 hai6 	又係	c=2 d=0.0164078 t=6345
+jau6 jiu3 	又要	c=1 d=0.000258659 t=6345
+je4 bei2 	耶比	c=1 d=9.35285e-08 t=6345
+je4 gwo2 	椰果	c=1 d=0.0769192 t=6345
+je5 	嘢	c=32 d=1.40823 t=6345
+je5 	野	c=4 d=4.34044e-12 t=6345
+je5 o4 	嘢哦	c=1 d=0.00680566 t=6345
+je6 maan5 	夜晚	c=2 d=0.00172083 t=6345
+ji1 	衣	c=1 d=9.3062e-08 t=6345
+ji1 laai6 	依賴	c=1 d=2.31794e-08 t=6345
+ji1 lei6 saa1 baak6 tai2 juk6 gun2 	伊利沙白體育館	c=1 d=0.0131019 t=6345
+ji3 si1 	意思	c=3 d=0.0515605 t=6345
+ji4 	而	c=6 d=0.000131861 t=6345
+ji4 ce2 	而且	c=1 d=0.000278804 t=6345
+ji4 gaa1 	宜家	c=17 d=0.794108 t=6345
+ji4 maa1 	姨媽	c=1 d=0.371577 t=6345
+ji4 man4 	移民	c=1 d=3.07436e-07 t=6345
+ji4 sik1 	儀式	c=1 d=6.52526e-08 t=6345
+ji5 	以	c=1 d=0.0485578 t=6345
+ji5 cin4 	以前	c=3 d=0.249083 t=6345
+ji5 ging1 	已經	c=8 d=0.118897 t=6345
+ji5 kap6 	以及	c=1 d=0.000845993 t=6345
+ji5 wai4 	以爲	c=2 d=0.355457 t=6345
+ji6 	二	c=1 d=0.453845 t=6345
+ji6 go3 	二個	c=1 d=1 t=6333
+jik6 sin3 	逆線	c=1 d=0.000480828 t=6345
+jim4 zung6 	嚴重	c=1 d=3.08179e-06 t=6345
+jin2 coeng3 wui2 	演唱會	c=18 d=0.526424 t=6345
+jin4 hau6 	然後	c=13 d=0.000535182 t=6345
+jin6 coeng4 zyun3 bo3 	現場轉播	c=1 d=7.06873e-08 t=6345
+jing1 goi1 	應該	c=42 d=1.20661 t=6345
+jing1 gwok3 	英國	c=1 d=2.35947e-11 t=6345
+jing2 	影	c=10 d=0.00432445 t=6345
+jing2 soeng2 	影相	c=7 d=0.000319341 t=6345
+jing2 zan1 	認真	c=2 d=0.0599047 t=6345
+jing3 jung6 	應用	c=1 d=0.50409 t=6345
+jing4 jung4 	形容	c=1 d=0.506617 t=6345
+jing6 tung4 	認同	c=1 d=2.71265e-05 t=6345
+jit6 sam1 	熱心	c=0 d=4.23306e-06 t=6345
+jit6 sam1 wui2 jyun4 	熱心會員	c=1 d=4.25428e-05 t=6345
+jiu1 	邀	c=1 d=4.3327e-14 t=6345
+jiu1 kau4 	要求	c=4 d=0.00159035 t=6345
+jiu3 	要	c=37 d=1.43779 t=6345
+jiu3 ngo5 	要我	c=1 d=3.20091e-11 t=6345
+joek3 	約	c=7 d=0.00725028 t=6345
+joek6 jiu3 	若要	c=1 d=0.00130703 t=6345
+joeng5 mou6 	仰慕	c=1 d=1 t=6338
+joeng6 	樣	c=7 d=1.19043 t=6345
+joeng6 ngo5 	讓我	c=1 d=0.0256042 t=6345
+joeng6 zi2 	樣子	c=1 d=3.65286e-06 t=6345
+jung2 pou5 	擁抱	c=1 d=0.00514558 t=6345
+jung2 pou5 ze3 fan1 zung1 	擁抱這分鐘	c=1 d=0.0220377 t=6345
+jung4 ji1 	庸醫	c=1 d=7.34071e-11 t=6345
+jung4 ji6 	容易	c=2 d=0.607231 t=6345
+jung6 	用	c=19 d=0.499543 t=6345
+jung6 dou2 	用到	c=1 d=2.9038e-12 t=6345
+jyu1 sam1 	於心	c=1 d=1.18611e-08 t=6345
+jyu1 sam1 jau5 kwai5 	於心有愧	c=4 d=2.36644e-06 t=6345
+jyu2 	魚	c=0 d=0.00209629 t=6345
+jyu4 go1 	如歌	c=0 d=0.00262523 t=6345
+jyu4 gwo2 	如果	c=11 d=0.776085 t=6345
+jyu4 haa1 haai5 	魚蝦蟹	c=1 d=3.9272e-05 t=6345
+jyu4 ho4 	如何	c=1 d=0.0338776 t=6345
+jyu4 lok6 hyun1 	娛樂圈	c=1 d=1.05762e-12 t=6345
+jyu4 saang1 	魚生	c=1 d=3.20146e-13 t=6345
+jyu5 ngo5 	與我	c=1 d=0.0224829 t=6345
+jyu5 zau6 	宇宙	c=13 d=0.000812951 t=6345
+jyu6 	預	c=1 d=2.08726e-10 t=6345
+jyun4 	園	c=1 d=1.23771e-09 t=6345
+jyun4 	完	c=16 d=0.215934 t=6345
+jyun4 bun2 	原本	c=1 d=0.0520787 t=6345
+jyun4 loi4 	原來	c=17 d=0.698441 t=6345
+jyun4 man4 	原文	c=1 d=1.60495e-07 t=6345
+jyun4 tou4 	原圖	c=2 d=0.00570975 t=6345
+jyun4 zi2 	原子	c=2 d=4.28226e-12 t=6345
+jyun4 zo2 	完咗	c=1 d=1.01091e-10 t=6345
+jyun5 gin2 	軟件	c=1 d=4.94361e-07 t=6345
+jyut6 	月	c=11 d=0.412025 t=6345
+jyut6 	越	c=4 d=6.96631e-05 t=6345
+jyut6 ping3 	粵拼	c=1 d=2.40173e-14 t=6345
+kaau3 	靠	c=3 d=5.25378e-07 t=6345
+kai2 dik6 	啓迪	c=3 d=0.00494356 t=6345
+kai3 je4 	契爺	c=2 d=2.2404e-10 t=6345
+kam4 jat6 	琴日	c=2 d=0.0017643 t=6345
+kam4 maan1 	噖晚	c=1 d=6.8456e-13 t=6345
+kam4 maan5 	琴晚	c=1 d=7.67859e-11 t=6345
+kap1 	吸	c=1 d=0.0322254 t=6345
+kap1 bit6 	級別	c=1 d=0.00224287 t=6345
+kap6 	及	c=1 d=2.5428e-09 t=6345
+kau1 	溝	c=5 d=1.00001 t=6345
+ke4 	騎	c=1 d=1.39552e-09 t=6345
+kei4 sat6 	其實	c=17 d=1.11578 t=6345
+kei4 taa1 	其他	c=4 d=3.80256e-07 t=6345
+kek6 bun2 	劇本	c=0 d=1.10841e-06 t=6345
+kek6 bun2 saat3 	劇本殺	c=4 d=0.00183451 t=6345
+keoi5 	佢	c=74 d=4.6115 t=6345
+keoi5 dei6 	佢哋	c=15 d=0.85938 t=6345
+keoi5 dei6 hai6 	佢哋係	c=1 d=5.10735e-08 t=6345
+keoi5 go3 	佢個	c=1 d=3.19319e-12 t=6345
+keoi5 m4 hai6 	佢唔係	c=1 d=8.23395e-09 t=6345
+king1 	傾	c=3 d=4.1755e-10 t=6345
+koeng4 gaan1 	強姦	c=1 d=0.00282287 t=6345
+kok3 	確	c=1 d=3.54671e-12 t=6345
+kok3 jing6 	確認	c=1 d=6.63876e-05 t=6345
+kung4 	窮	c=1 d=1.20674e-05 t=6345
+kwaa1 nin4 	跨年	c=3 d=0.00156757 t=6345
+kwong4 	狂	c=1 d=0.000706632 t=6345
+kyut3 ding6 	決定	c=2 d=0.00810722 t=6345
+laa1 	啦	c=41 d=0.431425 t=6345
+laai1 	拉	c=1 d=9.90387e-05 t=6345
+laai6 	賴	c=1 d=1.66297e-13 t=6345
+laan6 	爛	c=2 d=1.96765e-11 t=6345
+laap6 saap3 	垃圾	c=3 d=2.91005e-09 t=6345
+laap6 saap3 tung2 	垃圾桶	c=1 d=1.91222e-09 t=6345
+lai4 	來	c=2 d=1.62039e-12 t=6345
+lai4 	嚟	c=3 d=4.9502e-09 t=6345
+lai4 	黎	c=17 d=1.06293 t=6345
+lai4 gan2 	嚟緊	c=3 d=2.66319e-05 t=6345
+lai4 gong2 	嚟講	c=1 d=0.000352662 t=6345
+lai4 m4 lai4 	嚟唔嚟	c=4 d=8.79946e-08 t=6345
+lai5 	禮	c=3 d=9.38657e-08 t=6345
+lai6 jyu4 	例如	c=1 d=6.54438e-13 t=6345
+lan2 	撚	c=4 d=0.310367 t=6345
+lau4 	樓	c=1 d=1.22223e-08 t=6345
+lau4 	留	c=1 d=8.0487e-06 t=6345
+lau4 hau2 seoi2 	流口水	c=1 d=5.00792e-12 t=6345
+lau4 ji3 	留意	c=1 d=0.600496 t=6345
+lau6 zo2 	漏咗	c=1 d=7.17678e-10 t=6345
+le1 	呢	c=9 d=0.950492 t=6345
+le1 bou6 	呢部	c=1 d=0.0735345 t=6345
+le1 cang4 	呢層	c=1 d=0.00159641 t=6345
+le1 di1 	呢啲	c=7 d=0.00676202 t=6345
+le1 di1 je5 	呢啲嘢	c=1 d=3.22364e-06 t=6345
+le1 geoi3 	呢句	c=2 d=1.77156e-09 t=6345
+le1 go3 	呢個	c=13 d=0.146751 t=6345
+le1 go3 dou1 	呢個都	c=1 d=0.516851 t=6345
+le1 joeng6 je5 	呢樣嘢	c=1 d=5.54705e-09 t=6345
+le1 me1 	呢咩	c=1 d=0.103312 t=6345
+le1 sau2 	呢首	c=1 d=5.27562e-07 t=6345
+lei4 hoi1 	離開	c=1 d=1.06495e-05 t=6345
+lei5 jau4 	理由	c=1 d=3.81308e-11 t=6345
+lei5 leon6 	理論	c=1 d=6.04122e-13 t=6345
+lei6 	利	c=1 d=0.0239928 t=6345
+lei6 san1 	利申	c=3 d=7.46294e-05 t=6345
+leng3 	靚	c=2 d=1.93078e-05 t=6345
+leng3 neoi2 	靚女	c=1 d=2.15156e-14 t=6345
+leoi5 hang4 	旅行	c=1 d=1.7567e-11 t=6345
+leoi5 jau4 	旅遊	c=1 d=0.416862 t=6345
+leoi6 ci5 	類似	c=3 d=2.91461e-07 t=6345
+leoi6 gan6 	類近	c=2 d=9.70941e-07 t=6345
+leon4 lau2 	輪流	c=1 d=0.000125903 t=6345
+leon6 taan4 	論壇	c=0 d=1.97966e-06 t=6345
+leot6 si1 lau4 	律師樓	c=1 d=2.39513e-11 t=6345
+lin4 	連	c=6 d=0.631284 t=6345
+lin4 dang1 	連登	c=2 d=1.99404e-11 t=6345
+lin4 maai4 	連埋	c=1 d=2.05087e-09 t=6345
+lin4 paak3 	連拍	c=1 d=2.49203e-07 t=6345
+lin4 so2 	連鎖	c=1 d=0.000443861 t=6345
+lin6 	練	c=2 d=4.70476e-05 t=6345
+ling6 	令	c=1 d=0.000283018 t=6345
+ling6 ngoi6 	另外	c=1 d=6.53992e-05 t=6345
+liu5 	了	c=22 d=0.191166 t=6345
+liu6 	料	c=1 d=2.00992e-07 t=6345
+liu6 lei5 	料理	c=1 d=0.254107 t=6345
+lo1 	囉	c=4 d=0.000102762 t=6345
+lo2 	攞	c=14 d=0.227359 t=6345
+lo2 dak1 	攞得	c=1 d=5.99353e-08 t=6345
+lo2 dou3 	攞到	c=1 d=0.000682328 t=6345
+lo2 lai4 	攞嚟	c=1 d=0.147342 t=6345
+lo2 tai2 	裸體	c=0 d=5.4485e-05 t=6345
+lo2 tai2 sip3 jing2 	裸體攝影	c=1 d=0.000547581 t=6345
+lo2 zau2 	攞走	c=1 d=2.11808e-06 t=6345
+lo4 cap1 	邏輯	c=2 d=2.26618e-07 t=6345
+loeng4 faai3 	涼快	c=1 d=0.392586 t=6345
+loeng5 	兩	c=3 d=0.000112226 t=6345
+loeng5 bin1 	兩邊	c=1 d=1.30769e-09 t=6345
+loeng5 ci3 	兩次	c=1 d=1.53804e-06 t=6345
+loeng5 geoi3 	兩句	c=1 d=1.08683e-09 t=6345
+loeng5 go3 	兩個	c=1 d=0.0547488 t=6345
+loeng5 je5 	兩嘢	c=1 d=0.00543443 t=6345
+loeng5 tiu4 	兩條	c=1 d=0.00381048 t=6345
+loeng5 zoeng1 	兩張	c=1 d=0.00271219 t=6345
+lok6 	落	c=4 d=0.11021 t=6345
+lok6 heoi3 	落去	c=1 d=2.13457e-09 t=6345
+lok6 zaap6 	落閘	c=1 d=8.25807e-14 t=6345
+long2 hau2 	啷口	c=1 d=0.0122773 t=6345
+long4 	郎	c=1 d=3.57372e-13 t=6345
+lou2 	佬	c=1 d=0.00384878 t=6345
+lou5 	老	c=4 d=0.311923 t=6345
+lou5 gwai2 	老鬼	c=5 d=2.69246e-11 t=6345
+lou5 mou2 	老母	c=1 d=2.72764e-11 t=6345
+lou5 sai3 	老細	c=4 d=0.025357 t=6345
+luk6 	六	c=8 d=1.48671e-07 t=6345
+luk6 	綠	c=1 d=0.697676 t=6345
+luk6 hap6 	六合	c=1 d=1.29468e-09 t=6345
+lung4 coeng4 	龍翔	c=1 d=8.03065e-09 t=6345
+lung4 sit3 laan4 	龍舌蘭	c=3 d=7.58432e-07 t=6345
+lyun4 lok3 	聯絡	c=1 d=5.1578e-06 t=6345
+lyun6 	亂	c=2 d=0.0112845 t=6345
+m4 	唔	c=18 d=1.05885 t=6345
+m4 bei2 	唔俾	c=1 d=2.10752e-06 t=6345
+m4 ceot1 kei4 	唔出奇	c=3 d=9.55613e-05 t=6345
+m4 ciu1 gwo3 	唔超過	c=1 d=0.0746459 t=6345
+m4 co3 m4 co3 	唔錯唔錯	c=2 d=7.97341e-09 t=6345
+m4 dak1 	唔得	c=2 d=6.75691e-13 t=6345
+m4 dou2 	唔到	c=4 d=0.0168758 t=6345
+m4 faan2 lai4 	唔返嚟	c=1 d=5.83046e-07 t=6345
+m4 fan3 gaau3 	唔瞓覺	c=1 d=7.10416e-08 t=6345
+m4 gaa1 	唔加	c=1 d=4.81238e-14 t=6345
+m4 gaai3 ji3 	唔介意	c=1 d=0.00353515 t=6345
+m4 gau3 	唔夠	c=1 d=5.4332e-09 t=6345
+m4 gei3 dak1 	唔記得	c=8 d=0.15075 t=6345
+m4 gin3 ji5 	唔建議	c=1 d=9.19451e-13 t=6345
+m4 gok3 	唔覺	c=3 d=0.580937 t=6345
+m4 gwaai3 dak1 	唔怪得	c=1 d=4.13066e-11 t=6345
+m4 gwaan1 	唔關	c=2 d=4.98376e-06 t=6345
+m4 gwaan1 si6 	唔關事	c=1 d=5.74659e-13 t=6345
+m4 hai2 	唔喺	c=6 d=1.06411 t=6345
+m4 hai6 	唔係	c=31 d=0.00141334 t=6345
+m4 hou2 	唔好	c=9 d=1.01219 t=6345
+m4 jing1 goi1 	唔應該	c=1 d=4.75138e-11 t=6345
+m4 lai4 	唔來	c=2 d=7.3244e-08 t=6345
+m4 ming4 	唔明	c=1 d=3.00724e-12 t=6345
+m4 mun5 ji3 	唔滿意	c=1 d=2.29566e-12 t=6345
+m4 naan4 	唔難	c=4 d=1.90956e-05 t=6345
+m4 sai2 	唔使	c=5 d=0.0612266 t=6345
+m4 seoi1 jiu3 	唔需要	c=1 d=1.94079e-07 t=6345
+m4 sik1 	唔識	c=3 d=0.00671198 t=6345
+m4 syu1 fuk6 	唔舒服	c=1 d=0.000163287 t=6345
+m4 taai3 	唔太	c=3 d=3.67918e-05 t=6345
+m4 tung1 	唔通	c=1 d=0.000166586 t=6345
+m4 tung4 	唔同	c=1 d=0.23457 t=6345
+m4 wan2 ding6 	唔穩定	c=1 d=2.77461e-06 t=6345
+m4 wui4 	唔回	c=9 d=0.0939596 t=6345
+m4 wui5 	唔會	c=2 d=6.52415e-06 t=6345
+m4 zi1 	唔知	c=13 d=0.0169312 t=6345
+maa1 	嗎	c=6 d=0.05054 t=6345
+maa4 faan4 	麻煩	c=2 d=9.87778e-05 t=6345
+maa4 maa1 	媽媽	c=1 d=8.4206e-08 t=6345
+maa4 maa2 	麻麻	c=1 d=3.67117e-06 t=6345
+maa5 lei6 au1 	瑪俐歐	c=1 d=0.0238732 t=6345
+maa5 lou6 	馬路	c=1 d=1.96979e-05 t=6345
+maa5 tau4 	碼頭	c=1 d=0.00124328 t=6345
+maai4 	埋	c=15 d=0.0675032 t=6345
+maai5 	買	c=7 d=0.00278751 t=6345
+maai5 m4 dou2 	買唔到	c=2 d=0.00803112 t=6345
+maai6 	賣	c=2 d=0.183612 t=6345
+maan5 	晚	c=3 d=0.00869506 t=6345
+maan5 caan1 	晚餐	c=1 d=1.28866e-13 t=6345
+maan5 maan5 	晚晚	c=5 d=0.481159 t=6345
+maan6 	慢	c=2 d=0.00923873 t=6345
+maan6 gaai1 	萬佳	c=1 d=1.15982e-09 t=6345
+maan6 jau4 	漫遊	c=0 d=1.02072e-07 t=6345
+maan6 maan2 	慢慢	c=5 d=0.0043043 t=6345
+maan6 seoi3 	萬歲	c=0 d=1.03615e-07 t=6345
+maang4 fan1 	盲婚	c=1 d=0.0265162 t=6345
+maang6 gung1 uk1 	孟公屋	c=1 d=5.04348e-07 t=6345
+maau1 	貓	c=1 d=0.0141223 t=6345
+mai1 zyu6 sin1 	咪住先	c=1 d=1.13705e-11 t=6345
+mai5 	米	c=1 d=0.0102037 t=6345
+mai5 zeon1 	米津	c=1 d=4.5864e-07 t=6345
+mai6 	咪	c=14 d=0.0366418 t=6345
+mak6 	麥	c=2 d=9.92188e-11 t=6345
+mak6 gei3 	麥記	c=1 d=3.34824e-11 t=6345
+mak6 saang1 	驀生	c=1 d=3.83219e-11 t=6345
+man1 	蚊	c=2 d=0.00263316 t=6345
+man4 	文	c=1 d=1.6881e-13 t=6345
+man4 ji3 	民意	c=1 d=7.91379e-13 t=6345
+man6 	問	c=9 d=0.26584 t=6345
+man6 haa6 	問下	c=2 d=5.77158e-05 t=6345
+man6 hou6 	問號	c=1 d=0.00516939 t=6345
+man6 ngo5 	問我	c=1 d=1.59283e-06 t=6345
+man6 tai4 	問題	c=6 d=0.369753 t=6345
+mat1 	乜	c=5 d=8.32934e-07 t=6345
+mat6 gaa3 	物價	c=1 d=8.05281e-12 t=6345
+mat6 lung2 	密籠	c=1 d=0.377192 t=6345
+mat6 maa5 	密碼	c=1 d=1.28136e-05 t=6345
+mau5 go3 	某個	c=1 d=7.56298e-09 t=6345
+mau5 jat1 	某一	c=1 d=0.22313 t=6345
+mau6 jik6 	貿易	c=1 d=2.53012e-09 t=6345
+me1 	咩	c=34 d=2.39663 t=6345
+me1 ji3 si1 	咩意思	c=1 d=0.0546074 t=6345
+me1 ji3 si1 sin1 	咩意思先	c=1 d=0.548812 t=6345
+mei4 	微	c=1 d=4.67015e-14 t=6345
+mei5 	尾	c=4 d=0.000111717 t=6345
+mei6 	未	c=13 d=0.182281 t=6345
+mei6 aa4 	未呀	c=1 d=0.0645703 t=6345
+mei6 gin3 gwo3 	未見過	c=1 d=0.000639387 t=6345
+mei6 si3 gwo3 	未試過	c=1 d=0.690734 t=6345
+meng2 	名	c=4 d=0.612827 t=6345
+min4 hau4 	棉猴	c=1 d=4.19308e-11 t=6345
+min5 fai3 	免費	c=4 d=0.00839894 t=6345
+min6 	面	c=3 d=0.0120862 t=6345
+min6 hau2 	面口	c=2 d=8.49166e-11 t=6345
+ming4 	明	c=5 d=0.89385 t=6345
+ming4 baak6 	明白	c=2 d=0.00117675 t=6345
+ming4 haam4 	名銜	c=1 d=0.873716 t=6345
+ming4 hin2 	明顯	c=3 d=0.00628845 t=6345
+ming4 nin4 	明年	c=1 d=0.0228227 t=6345
+ming4 nin4 gam1 jat6 	明年今日	c=1 d=0.000916453 t=6345
+ming4 zi6 	名字	c=1 d=4.21338e-09 t=6345
+ming5 	銘	c=3 d=1.46733e-07 t=6345
+mok6 	莫	c=0 d=2.81071e-12 t=6345
+mok6 waa4 leon4 	莫華倫	c=1 d=2.8248e-11 t=6345
+mong4 	忙	c=1 d=1.45925e-05 t=6345
+mong5 	網	c=1 d=1.92246e-13 t=6345
+mong5 zaam6 	網站	c=1 d=3.94004e-14 t=6345
+mong6 	望	c=2 d=1.61e-06 t=6345
+mou2 dak6 	模特	c=1 d=4.71709e-14 t=6345
+mou4 	無	c=36 d=1.23483 t=6345
+mou4 aa4 	無呀	c=2 d=0.554327 t=6345
+mou4 bat1 zi6 	毛筆字	c=1 d=1.29759e-06 t=6345
+mou4 dyun1 dyun1 	無端端	c=1 d=4.43016e-11 t=6345
+mou4 ho2 nang4 	無可能	c=1 d=3.50236e-11 t=6345
+mou4 jan4 	無人	c=3 d=0.594521 t=6345
+mou4 je5 hou2 tai2 	無嘢好睇	c=1 d=0.882497 t=6345
+mou4 liu4 	無聊	c=1 d=2.04523e-06 t=6345
+mou4 si6 	無事	c=4 d=5.02073e-12 t=6345
+mou5 gam3 	冇咁	c=0 d=2.19502e-15 t=6345
+mou5 gam3 faai3 	冇咁快	c=1 d=2.20602e-14 t=6345
+mui4 mui1 zai2 	妹妹仔	c=1 d=3.27236e-06 t=6345
+mui4 mui2 	妹妹	c=1 d=0.0356146 t=6345
+mui5 	每	c=1 d=0.000111666 t=6345
+mui5 ci3 	每次	c=1 d=3.92853e-09 t=6345
+mui5 fung4 	每逢	c=1 d=0.00856561 t=6345
+mui5 go3 	每個	c=3 d=3.23747e-08 t=6345
+mui5 jat6 	每日	c=2 d=1.51413e-05 t=6345
+mui5 nin4 	每年	c=4 d=2.45372e-05 t=6345
+mui6 	妹	c=1 d=2.81119e-13 t=6345
+muk6 si1 	牧師	c=6 d=0.0384502 t=6345
+mun4 	們	c=1 d=0.000871757 t=6345
+mun5 ji3 	滿意	c=1 d=0.00918669 t=6345
+mung4 lung4 	矇矓	c=1 d=0.000696112 t=6345
+naam4 fei1 	南非	c=1 d=5.28837e-06 t=6345
+naam4 jan2 	男人	c=2 d=2.30004e-05 t=6345
+naam4 san4 	男神	c=1 d=6.17922e-14 t=6345
+naam5 	腩	c=2 d=5.31057e-05 t=6345
+naan4 	難	c=5 d=0.0132603 t=6345
+naan4 dou6 	難度	c=2 d=2.72027e-08 t=6345
+naan4 m4 naan4 	難唔難	c=1 d=4.65809e-13 t=6345
+naan4 sik6 	難食	c=1 d=1.11415e-07 t=6345
+nam2 	諗	c=4 d=0.0587185 t=6345
+nam2 gwo3 	諗過	c=2 d=1.40906e-05 t=6345
+nam2 haa5 nam2 haa5 	諗下諗下	c=3 d=3.50944e-05 t=6345
+nam2 haa6 	諗下	c=3 d=0.883026 t=6345
+nam2 hei2 	諗起	c=7 d=0.298221 t=6345
+nam2 zyu6 	諗住	c=2 d=1.89131e-09 t=6345
+nang4 lik6 	能力	c=1 d=0.00114769 t=6345
+nau1 	嬲	c=1 d=5.17027e-05 t=6345
+nei5 	你	c=203 d=5.09438 t=6345
+nei5 bun2 san1 	你本身	c=1 d=9.12658e-14 t=6345
+nei5 dei6 	你哋	c=23 d=0.0729149 t=6345
+nei5 dik1 	你的	c=2 d=8.36382e-09 t=6345
+nei5 go3 	你個	c=1 d=0.0391639 t=6345
+nei5 gu2 haa5 	你估下	c=1 d=4.04886e-11 t=6345
+nei5 hou2 	你好	c=2 d=2.32037e-09 t=6345
+nei5 ji5 wai4 	你以爲	c=1 d=2.1717e-06 t=6345
+nei5 kap1 	你給	c=1 d=0.0250972 t=6345
+nei5 lou5 mou2 	你老母	c=2 d=1.02744e-06 t=6345
+nei5 waa6 	你話	c=1 d=4.00653e-05 t=6345
+neoi5 	女	c=11 d=0.990703 t=6345
+neoi5 haau6 	女校	c=1 d=3.33098e-09 t=6345
+neoi5 jan2 	女人	c=2 d=5.65228e-06 t=6345
+neoi5 zai2 	女仔	c=2 d=5.82131e-10 t=6345
+ng5 	五	c=1 d=0.0086517 t=6345
+ng5 fo3 	五課	c=1 d=1.40567e-06 t=6345
+ng6 dou6 	誤導	c=2 d=0.1764 t=6345
+ngaam1 	啱	c=16 d=0.441021 t=6345
+ngaam4 ngaam4 	巖巖	c=1 d=4.8365e-14 t=6345
+ngaan4 sik1 	顏色	c=2 d=0.657395 t=6345
+ngaan5 	眼	c=2 d=0.000955218 t=6345
+ngaan5 geng2 	眼鏡	c=6 d=1.3003 t=6345
+ngaan5 zing1 	眼睛	c=1 d=0.384812 t=6345
+ngai4 him2 	危險	c=1 d=0.0997588 t=6345
+ngan4 baau1 	銀包	c=1 d=1.09473e-06 t=6345
+ngan4 ho4 hai6 	銀河系	c=1 d=8.74162e-07 t=6345
+ngan4 hong4 	銀行	c=1 d=8.23255e-07 t=6345
+ngau4 	牛	c=3 d=9.90562e-10 t=6345
+ngau4 naam5 	牛腩	c=1 d=3.34767e-09 t=6345
+ngau4 ngau4 	牛牛	c=1 d=0.375311 t=6345
+ngau4 tau4 gok3 	牛頭角	c=1 d=0.00168667 t=6345
+ngo5 	我	c=182 d=7.45613 t=6345
+ngo5 dei6 	我哋	c=11 d=0.20329 t=6345
+ngo5 hou2 ci5 	我好似	c=1 d=0.687289 t=6345
+ngo5 ji1 gaa1 	我依家	c=1 d=0.000411789 t=6345
+ngo5 mun4 	我們	c=4 d=0.0291984 t=6345
+ngo5 mun4 maan6 seoi3 	我們萬歲	c=1 d=1.04134e-06 t=6345
+ngo5 nam2 	我諗	c=1 d=3.36503e-11 t=6345
+ngo6 long4 	餓狼	c=0 d=4.12995e-10 t=6345
+ngo6 long4 cyun4 syut3 	餓狼傳說	c=1 d=4.15065e-09 t=6345
+ngoi4 zai6 	呆滯	c=1 d=1.56533e-07 t=6345
+ngoi6 gwok3 	外國	c=1 d=2.96862e-07 t=6345
+ngoi6 tou3 	外套	c=1 d=3.13806e-13 t=6345
+nin4 	年	c=10 d=0.180767 t=6345
+nin4 co1 jat1 	年初一	c=2 d=0.652568 t=6345
+nin4 hau6 	年後	c=0 d=7.5617e-08 t=6345
+nin4 kaat1 	年卡	c=1 d=1.625e-06 t=6345
+no4 	那	c=2 d=0.00348252 t=6345
+noi6 	內	c=1 d=0.0015415 t=6345
+noi6 	耐	c=1 d=1.42691e-06 t=6345
+nou5 	腦	c=1 d=0.29671 t=6345
+nung4 coeng4 	農場	c=1 d=8.11136e-09 t=6345
+o4 ne1 	哦呢	c=1 d=2.12942e-10 t=6345
+oi1 sau4 	哀愁	c=1 d=1 t=6336
+oi3 	愛	c=1 d=0.0127147 t=6345
+ok3 	惡	c=1 d=0.000185956 t=6345
+on1 paai4 	安排	c=2 d=0.00927901 t=6345
+ou3 	噢	c=1 d=9.2136e-08 t=6345
+ou3 mun2 	澳門	c=3 d=4.63111e-10 t=6345
+paa3 	怕	c=2 d=5.48094e-05 t=6345
+paai3 deoi3 	派對	c=5 d=0.0567954 t=6345
+paai4 deoi2 	排隊	c=3 d=0.0197429 t=6345
+paak3 	拍	c=1 d=4.54308e-13 t=6345
+paau4 	刨	c=1 d=2.90983e-07 t=6345
+pai1 	批	c=1 d=6.84327e-09 t=6345
+pai1 dau3 zo6 	批鬥座	c=1 d=4.28813e-10 t=6345
+pang4 jau5 	朋友	c=1 d=0.00150344 t=6345
+pei4 	皮	c=2 d=0.0603978 t=6345
+pin1 	篇	c=1 d=1.67968e-13 t=6345
+pin3 	片	c=8 d=0.01736 t=6345
+ping4 jat6 	平日	c=2 d=4.0992e-08 t=6345
+ping4 si4 	平時	c=4 d=0.000797626 t=6345
+piu3 	票	c=1 d=5.22401e-09 t=6345
+po1 	棵	c=1 d=8.38288e-14 t=6345
+po4 	婆	c=1 d=5.58928e-10 t=6345
+pong4 	旁	c=1 d=3.04428e-09 t=6345
+pou2 tung1 	普通	c=1 d=3.52962e-14 t=6345
+pou3 tau2 	舖頭	c=1 d=3.4681e-13 t=6345
+pou4 	袍	c=1 d=1.68317e-08 t=6345
+pou4 tau4 	蒲頭	c=3 d=2.62714e-10 t=6345
+pou4 tou4 	葡萄	c=2 d=0.0234616 t=6345
+pui3 	配	c=1 d=0.00037447 t=6345
+pui3 fuk6 	佩服	c=1 d=1.48873e-05 t=6345
+pui4 	陪	c=1 d=2.34244e-14 t=6345
+puk1 gaai1 	仆街	c=1 d=0.000135032 t=6345
+pun3 	判	c=1 d=0.158817 t=6345
+saa1 	沙	c=1 d=9.23588e-07 t=6345
+saa1 lung4 	沙龍	c=12 d=0.0309964 t=6345
+saai3 	曬	c=6 d=0.00418088 t=6345
+saam1 	三	c=1 d=1.57344e-09 t=6345
+saam1 	衫	c=1 d=5.00707e-10 t=6345
+saam1 gung1 	三公	c=1 d=3.94688e-05 t=6345
+saan1 ceoi4 	刪除	c=1 d=8.98765e-10 t=6345
+saan1 coeng4 seoi2 jyun5 	山長水遠	c=2 d=6.484e-11 t=6345
+saang1 	生	c=8 d=1.56016e-08 t=6345
+saang1 jat6 	生日	c=1 d=3.26391e-05 t=6345
+saang1 jat6 faai3 lok6 	生日快樂	c=2 d=0.373764 t=6345
+saang1 ji3 	生意	c=0 d=0.0159614 t=6345
+saang1 sing3 	生性	c=1 d=5.65718e-05 t=6345
+saat3 	殺	c=0 d=1.10841e-06 t=6345
+sai1 gung3 	西貢	c=1 d=1.79188e-09 t=6345
+sai2 	洗	c=2 d=1.12807e-06 t=6345
+sai2 jung6 	使用	c=1 d=1.99956e-05 t=6345
+sai2 m4 sai2 	使唔使	c=2 d=1.3832e-11 t=6345
+sai2 mai5 waa4 	洗米華	c=1 d=0.157237 t=6345
+sai2 saam1 baan2 	洗衫板	c=1 d=2.23206e-05 t=6345
+sai3 	細	c=1 d=3.04325e-05 t=6345
+sai3 gaai3 	世界	c=1 d=0.210136 t=6345
+sai3 gaai3 ban3 ji4 gun2 	世界殯儀館	c=2 d=0.00436407 t=6345
+sai3 jat1 	世一	c=1 d=2.68657e-09 t=6345
+sai3 lou2 	細佬	c=2 d=3.30177e-06 t=6345
+sai3 zit3 	細節	c=0 d=9.34966e-05 t=6345
+sam1 zeon1 	深蹲	c=1 d=2.3939e-05 t=6345
+san1 	伸	c=1 d=2.16683e-09 t=6345
+san1 	新	c=3 d=0.100259 t=6345
+san1 	身	c=4 d=0.61843 t=6345
+san1 cing2 	申請	c=4 d=4.18106e-13 t=6345
+san1 coi4 	身材	c=2 d=2.35063e-05 t=6345
+san1 mang4 	新盟	c=1 d=0.423162 t=6345
+san1 pou4 gong1 	新蒲崗	c=3 d=1.00036e-07 t=6345
+san1 sau2 	伸手	c=1 d=6.25321e-07 t=6345
+san1 tai2 gin6 hong1 	身體健康	c=1 d=0.000332125 t=6345
+san4 cing4 	神情	c=1 d=8.65611e-09 t=6345
+san4 kei4 	神奇	c=1 d=1.64217e-12 t=6345
+san4 sau3 	神獸	c=1 d=3.15272e-09 t=6345
+sang1 	生	c=1 d=1.90793e-12 t=6345
+sang1 cyun4 	生存	c=1 d=1.92711e-12 t=6345
+sang1 wut6 	生活	c=1 d=0.0010333 t=6345
+sap1 gau1 	溼鳩	c=2 d=0.70822 t=6345
+sap1 seoi3 	溼碎	c=1 d=4.18297e-12 t=6345
+sat1 baai6 	失敗	c=2 d=0.163387 t=6345
+sat1 heoi3 	失去	c=3 d=0.00223897 t=6345
+sat1 heoi3 liu5 dik1 jat1 cai3 	失去了的一切	c=1 d=1.53089e-10 t=6345
+sat6 	實	c=2 d=0.000763968 t=6345
+sat6 zai3 	實際	c=1 d=2.88932e-12 t=6345
+sau1 	收	c=7 d=0.00339796 t=6345
+sau1 dou2 	收到	c=3 d=0.414783 t=6345
+sau1 fai3 	收費	c=1 d=1.26905e-09 t=6345
+sau1 gung1 	收工	c=4 d=0.0649803 t=6345
+sau1 pei4 	收皮	c=3 d=5.41747e-12 t=6345
+sau1 sik1 	收息	c=1 d=7.60219e-11 t=6345
+sau2 	手	c=2 d=2.45707e-08 t=6345
+sau2 ci3 	首次	c=1 d=0.000816895 t=6345
+sau2 daa2 	手打	c=0 d=1.13666e-08 t=6345
+sau2 daa2 min6 	手打面	c=1 d=1.14236e-07 t=6345
+sau2 gaa1 	首家	c=2 d=3.0042e-10 t=6345
+sau2 sin1 	首先	c=1 d=4.04748e-07 t=6345
+sau3 	秀	c=1 d=9.14398e-07 t=6345
+sau6 si1 	壽司	c=2 d=7.00671e-13 t=6345
+se2 	寫	c=16 d=0.0382779 t=6345
+se5 cuk1 	社畜	c=1 d=4.69116e-08 t=6345
+se5 wui2 	社會	c=1 d=5.60089e-05 t=6345
+sei2 	死	c=6 d=0.000132901 t=6345
+sei2 hoi1 	死開	c=1 d=1.63315e-06 t=6345
+sei3 	四	c=12 d=0.00711927 t=6345
+seoi1 jin4 	雖然	c=2 d=0.139461 t=6345
+seoi1 jiu3 	需要	c=1 d=2.33674e-05 t=6345
+seoi2 	水	c=2 d=0.316931 t=6345
+seoi2 waan1 	水灣	c=1 d=1.71303e-09 t=6345
+seoi3 	歲	c=2 d=0.305746 t=6345
+seoi3 cin4 	稅前	c=1 d=4.76287e-10 t=6345
+seoi3 hau6 	稅後	c=1 d=4.81074e-10 t=6345
+seoi3 jyut6 	歲月	c=0 d=0.00262523 t=6345
+seoi3 jyut6 jyu4 go1 	歲月如歌	c=1 d=0.0263839 t=6345
+seoi3 leot2 	稅率	c=1 d=4.73912e-10 t=6345
+seoi3 sau1 	稅收	c=1 d=0.0284388 t=6345
+seoi4 si6 	誰是	c=1 d=1.62136e-09 t=6345
+seon3 	信	c=1 d=0.00179097 t=6345
+seon3 sik1 	信息	c=2 d=0.156453 t=6345
+seon4 seoi5 	純粹	c=5 d=1.01035e-05 t=6345
+seon6 bin2 	順便	c=2 d=0.108021 t=6345
+si1 	師	c=1 d=3.44845e-05 t=6345
+si1 gaa1 	私家	c=1 d=2.9763e-08 t=6345
+si1 gei1 	司機	c=2 d=2.0118e-08 t=6345
+si1 hing1 	師兄	c=2 d=0.0833256 t=6345
+si1 naai1 	師奶	c=1 d=1.00068e-08 t=6345
+si2 fat1 	屎忽	c=3 d=0.00198594 t=6345
+si3 	試	c=3 d=0.147164 t=6345
+si3 dong3 zan1 	試當真	c=3 d=1.81421 t=6345
+si3 gwo3 	試過	c=1 d=0.0865923 t=6345
+si3 haa6 	試下	c=3 d=0.354725 t=6345
+si3 zo2 	試咗	c=1 d=1.15423e-11 t=6345
+si4 	時	c=2 d=0.0246828 t=6345
+si4 doi6 	時代	c=5 d=0.0235295 t=6345
+si4 doi6 gwong2 coeng4 	時代廣場	c=2 d=0.00155699 t=6345
+si4 gaan3 	時間	c=8 d=0.01956 t=6345
+si4 hau6 	時候	c=4 d=0.518134 t=6345
+si4 keoi1 	時區	c=2 d=1.26425e-12 t=6345
+si4 soeng4 	時常	c=2 d=0.0703445 t=6345
+si5 fong3 	市況	c=1 d=2.13493e-11 t=6345
+si6 	事	c=3 d=5.03385e-06 t=6345
+si6 	是	c=2 d=1.73281e-09 t=6345
+si6 ci3 	是次	c=5 d=0.0111214 t=6345
+si6 gok3 hoeng2 sau6 	視覺享受	c=1 d=0.000320701 t=6345
+si6 mai6 	是咪	c=2 d=8.92562e-09 t=6345
+sik1 	識	c=3 d=1.78234e-05 t=6345
+sik1 zou6 	識做	c=1 d=0.00436124 t=6345
+sik6 	食	c=24 d=0.0377967 t=6345
+sik6 faan4 	食煩	c=5 d=9.33363e-06 t=6345
+sik6 faan4 jat6 kei4 	食煩日期	c=1 d=3.53575e-05 t=6345
+sik6 faan6 	食飯	c=2 d=6.84891e-11 t=6345
+sik6 gwo3 	食過	c=1 d=4.13136e-13 t=6345
+sik6 jyun4 	食完	c=1 d=3.55468e-09 t=6345
+sik6 mat6 	食物	c=2 d=0.000211772 t=6345
+sik6 me1 hou2 	食咩好	c=1 d=0.00501661 t=6345
+sik6 pou2 	食譜	c=1 d=3.99959e-14 t=6345
+sik6 tong4 	食堂	c=1 d=1.09209e-07 t=6345
+sik6 zi6 	食字	c=1 d=0.000254808 t=6345
+sin1 	先	c=47 d=1.24991 t=6345
+sin1 dak1 	先得	c=2 d=0.346504 t=6345
+sin1 lai4 	先嚟	c=1 d=8.67704e-08 t=6345
+sin1 syun3 	先算	c=1 d=0.355226 t=6345
+sin1 zoi3 	先再	c=1 d=9.83405e-10 t=6345
+sin3 soeng6 	線上	c=3 d=1.27861e-06 t=6345
+sin3 soeng6 dou2 coeng4 	線上賭場	c=2 d=3.01925e-10 t=6345
+sing1 	升	c=2 d=2.78916e-08 t=6345
+sing1 kei4 	星期	c=24 d=0.0160602 t=6345
+sing1 kei4 jat1 	星期一	c=1 d=0.400517 t=6345
+sing1 zik1 	升職	c=1 d=9.49258e-06 t=6345
+sing2 hei2 	醒起	c=2 d=0.891366 t=6345
+sing3 daan3 	聖誕	c=2 d=1.05664e-05 t=6345
+sing3 gaak3 	性格	c=3 d=5.29258e-06 t=6345
+sing3 ming6 	性命	c=1 d=4.84572e-07 t=6345
+sing4 	成	c=1 d=9.14709e-11 t=6345
+sing4 	誠	c=1 d=4.31109e-14 t=6345
+sing4 bun2 	成本	c=1 d=1.11128e-06 t=6345
+sing4 daam1 	承擔	c=1 d=0.00105417 t=6345
+sing4 gung1 	成功	c=1 d=3.05902e-07 t=6345
+sing4 jat6 	成日	c=6 d=0.00518151 t=6345
+sing4 si5 	城市	c=3 d=0.0882199 t=6345
+sing4 si5 leon6 taan4 	城市論壇	c=1 d=1.98958e-05 t=6345
+sing4 suk6 	成熟	c=2 d=0.0583098 t=6345
+sing6 wai6 	盛惠	c=1 d=7.52654e-11 t=6345
+sip3 jing2 	攝影	c=1 d=5.5226e-05 t=6345
+sip3 jing2 daai6 si1 	攝影大師	c=1 d=3.35691e-12 t=6345
+siu1 duk6 	消毒	c=1 d=2.28935e-09 t=6345
+siu1 sik1 	消息	c=1 d=1.42028e-10 t=6345
+siu2 	小	c=1 d=2.38976e-14 t=6345
+siu2 	少	c=2 d=0.000267886 t=6345
+siu2 baan1 	小班	c=0 d=1.27849e-09 t=6345
+siu2 baan1 gaau3 hok6 	小班教學	c=1 d=1.2849e-08 t=6345
+siu2 dai6 	小弟	c=1 d=1.50784e-08 t=6345
+siu2 di1 	少啲	c=1 d=7.08582e-07 t=6345
+siu2 hok6 	小學	c=1 d=5.58738e-06 t=6345
+siu2 pang4 jau5 	小朋友	c=1 d=3.88006e-10 t=6345
+siu2 sam1 	小心	c=1 d=3.15981e-06 t=6345
+siu2 si6 	小事	c=1 d=0.0330412 t=6345
+siu2 sou3 	少數	c=0 d=1.84231e-13 t=6345
+siu2 uk1 	小屋	c=0 d=3.57311e-12 t=6345
+siu2 ze2 	小姐	c=1 d=6.84211e-07 t=6345
+siu3 	笑	c=4 d=0.110304 t=6345
+siu3 nin4 	少年	c=2 d=4.30373e-12 t=6345
+siu3 sei2 	笑死	c=2 d=3.27677e-06 t=6345
+siu3 seng1 	笑聲	c=1 d=3.93736e-06 t=6345
+so2 	所	c=1 d=2.56836e-09 t=6345
+so2 	鎖	c=1 d=4.22429e-10 t=6345
+so2 jau5 	所有	c=1 d=0.167797 t=6345
+so2 ji5 	所以	c=6 d=1.29748e-05 t=6345
+so2 wai6 	所謂	c=2 d=1.18055e-09 t=6345
+so4 	傻	c=2 d=0.160214 t=6345
+so4 gau1 	傻鳩	c=1 d=2.09195e-07 t=6345
+so4 zai2 	傻仔	c=1 d=9.33188e-11 t=6345
+soeng1 	相	c=10 d=0.123503 t=6345
+soeng1 cung4 	雙重	c=1 d=1.23431e-06 t=6345
+soeng1 cyu2 	相處	c=1 d=2.87344e-06 t=6345
+soeng1 jip6 	商業	c=0 d=1.27827e-07 t=6345
+soeng1 jip6 cung4 lam4 	商業叢林	c=2 d=2.58878e-06 t=6345
+soeng1 sam1 	傷心	c=1 d=3.77513e-11 t=6345
+soeng1 seon3 	相信	c=3 d=0.162988 t=6345
+soeng2 	想	c=27 d=1.22008 t=6345
+soeng2 faat3 	想法	c=1 d=3.46751e-11 t=6345
+soeng2 gei1 	相機	c=1 d=0.00213348 t=6345
+soeng2 gong2 	想講	c=1 d=0.282239 t=6345
+soeng2 m4 soeng2 	想唔想	c=1 d=6.33456e-12 t=6345
+soeng2 man6 	想問	c=1 d=1.05199e-08 t=6345
+soeng2 man6 haa6 	想問下	c=3 d=0.0337094 t=6345
+soeng4 si3 	嘗試	c=1 d=3.11435e-12 t=6345
+soeng5 	上	c=13 d=0.313183 t=6345
+soeng5 dik1 	上的	c=0 d=3.24145e-13 t=6345
+soeng5 dik1 faat3 dyun2 seon3 	上的發短信	c=1 d=3.2577e-12 t=6345
+soeng5 fo3 	上課	c=1 d=0.421052 t=6345
+soeng5 m4 dou2 	上唔到	c=1 d=0.0309618 t=6345
+soeng5 mong5 	上網	c=1 d=3.64343e-05 t=6345
+soeng5 si5 	上市	c=1 d=3.09882e-12 t=6345
+soeng6 ci3 	上次	c=4 d=0.0079507 t=6345
+soeng6 go3 jyut6 	上個月	c=1 d=1.50007e-06 t=6345
+soeng6 min6 	上面	c=4 d=1.25624e-05 t=6345
+soeng6 ng5 	上午	c=0 d=2.92492e-10 t=6345
+soeng6 ng5 coeng4 	上午場	c=1 d=2.93958e-09 t=6345
+soeng6 sou3 	上訴	c=1 d=1.92148e-07 t=6345
+song2 sau2 	爽手	c=1 d=4.2874e-08 t=6345
+sou2 	數	c=1 d=0.0109437 t=6345
+sou2 hok6 hai6 	數學系	c=1 d=1.78294e-09 t=6345
+sou3 loeng6 	數量	c=1 d=0.126186 t=6345
+sou3 maa5 	數碼	c=1 d=1.06238e-06 t=6345
+sou3 zik6 	數值	c=1 d=1.00327e-09 t=6345
+suk6 	熟	c=5 d=0.000129113 t=6345
+suk6 jyu1 	屬於	c=1 d=0.332871 t=6345
+sung3 	送	c=1 d=2.73991e-05 t=6345
+syu1 	書	c=1 d=2.92442e-07 t=6345
+syu1 faat3 	書法	c=1 d=1.2719e-06 t=6345
+syu1 jap6 	輸入	c=1 d=0.16696 t=6345
+syu2 	鼠	c=1 d=2.20452e-06 t=6345
+syu4 tiu2 	薯條	c=1 d=0.0102549 t=6345
+syun1 bou3 	宣佈	c=1 d=1.04187e-12 t=6345
+syun1 tung3 	痠痛	c=1 d=7.90975e-07 t=6345
+syun2 jau5 	損友	c=1 d=0.0238748 t=6345
+syun2 sat1 	損失	c=1 d=0.00108086 t=6345
+syun3 	算	c=5 d=1.47393e-05 t=6345
+syut3 waa6 	說話	c=1 d=0.418952 t=6345
+taa1 	她	c=2 d=0.0023935 t=6345
+taa1 dik1 	她的	c=1 d=1.58542e-10 t=6345
+taa1 dik1 oi3 	他的愛	c=1 d=0.00238156 t=6345
+taai3 	太	c=4 d=0.211739 t=6345
+taai3 ci4 	太遲	c=1 d=0.99005 t=6345
+taai3 hung1 	太空	c=2 d=1.99041e-06 t=6345
+taai3 hung1 bok3 mat6 gun2 	太空博物館	c=1 d=9.00784e-07 t=6345
+taai3 joeng2 seoi1 	太樣衰	c=1 d=0.591555 t=6345
+taai3 joeng4 hai6 	太陽系	c=1 d=8.78544e-07 t=6345
+taai3 saan1 	泰山	c=0 d=1.10592e-09 t=6345
+taai3 saan1 aat3 deng2 	泰山壓頂	c=1 d=1.11147e-08 t=6345
+taam3 sok3 	探索	c=1 d=3.86071e-10 t=6345
+taam4 zai2 	譚仔	c=1 d=1.70038e-10 t=6345
+tai1 dou6 	梯度	c=1 d=0.540641 t=6345
+tai2 	睇	c=39 d=1.24195 t=6345
+tai2 gan2 	睇緊	c=2 d=0.288793 t=6345
+tai2 haa6 	睇下	c=9 d=0.0152363 t=6345
+tai2 haa6 e6 	睇下誒	c=1 d=0.0378169 t=6345
+tai2 hei3 	睇戲	c=2 d=1.31153e-10 t=6345
+tai2 juk6 	體育	c=1 d=8.44096e-07 t=6345
+tai2 juk6 gun2 	體育館	c=1 d=0.000754089 t=6345
+tai2 lai6 	體例	c=1 d=0.186374 t=6345
+tai2 lok6 	睇落	c=1 d=0.0203434 t=6345
+tai2 m4 dou3 	睇唔到	c=1 d=3.31436e-09 t=6345
+tai2 pin3 	睇片	c=1 d=1.26926e-11 t=6345
+tai2 zek3 	睇隻	c=1 d=0.255381 t=6345
+tai4 	提	c=2 d=1.96546 t=6345
+tai4 	題	c=1 d=0.0101529 t=6345
+tai4 haa6 	題下	c=2 d=2.85963e-08 t=6345
+tai4 muk6 	題目	c=2 d=4.70165e-08 t=6345
+tau1 paak3 	偷拍	c=0 d=0.00018734 t=6345
+tau1 paak3 tou4 	偷拍圖	c=1 d=0.00188279 t=6345
+tau4 	頭	c=3 d=0.0813709 t=6345
+tau4 coeng4 	頭場	c=1 d=1.6919e-10 t=6345
+tau4 faat3 	頭髮	c=1 d=4.59906e-10 t=6345
+tau4 sin1 	頭先	c=5 d=4.51765e-08 t=6345
+tek3 	踢	c=1 d=4.82401e-13 t=6345
+teng1 	聽	c=7 d=0.00199418 t=6345
+teng1 dou2 	聽到	c=1 d=5.2493e-07 t=6345
+teng1 gwo3 	聽過	c=2 d=3.15784e-06 t=6345
+teng1 lok6 	聽落	c=3 d=1.36283e-09 t=6345
+teng1 m4 gau3 	聽唔夠	c=1 d=6.38062e-09 t=6345
+teoi1 gaai3 	推介	c=1 d=0.000636211 t=6345
+teoi1 gwong2 	推廣	c=0 d=0.0159614 t=6345
+teoi1 gwong2 saang1 ji3 	推廣生意	c=1 d=0.160414 t=6345
+teoi1 zin3 	推薦	c=1 d=1.17715e-07 t=6345
+teoi2 	腿	c=1 d=0.00202943 t=6345
+teoi3 ceot1 	退出	c=1 d=1.05235e-12 t=6345
+tim4 	甜	c=1 d=5.38402e-11 t=6345
+tin1 fu3 	天賦	c=0 d=9.14242e-06 t=6345
+tin1 syu1 	天書	c=1 d=3.40822e-14 t=6345
+tin4 	填	c=2 d=1.87832e-13 t=6345
+tin4 zai2 	田仔	c=1 d=1.85634e-13 t=6345
+ting1 jat6 	聼日	c=3 d=2.45838e-07 t=6345
+ting1 maan1 	聽晚	c=1 d=1.77466e-13 t=6345
+ting1 ziu1 	聽朝	c=3 d=8.82797e-05 t=6345
+tip3 	貼	c=1 d=0.020141 t=6345
+tip3 cit3 	貼切	c=1 d=0.514274 t=6345
+tiu3 mou5 	跳舞	c=1 d=0.390628 t=6345
+tiu4 	條	c=11 d=0.847228 t=6345
+tiu4 	調	c=1 d=0.00491728 t=6345
+tiu4 fun2 	條款	c=0 d=9.34966e-05 t=6345
+tiu4 fun2 sai3 zit3 	條款細節	c=1 d=0.000939653 t=6345
+tiu4 sik1 	調色	c=1 d=0.00481991 t=6345
+to4 fei1 leon4 	陀飛輪	c=4 d=0.02805 t=6345
+toi2 	檯	c=2 d=3.02444e-09 t=6345
+toi4 	台	c=2 d=6.39803e-08 t=6345
+toi4 bak1 	臺北	c=1 d=0.0213864 t=6345
+toi4 bak1 siu2 	臺北小	c=0 d=0.00213864 t=6345
+toi4 bak1 siu2 geoi6 daan2 	臺北小巨蛋	c=1 d=0.0214936 t=6345
+toi4 waan1 	臺灣	c=2 d=1.39176e-07 t=6345
+toi4 waan1 je5 	臺灣嘢	c=1 d=1.37143e-10 t=6345
+tong4 	堂	c=2 d=2.42483e-08 t=6345
+tou3 cou4 	吐嘈	c=1 d=0.208045 t=6345
+tou4 	圖	c=5 d=0.809574 t=6345
+tou4 tyut3 	逃脫	c=1 d=2.76792e-07 t=6345
+tou5 	肚	c=1 d=2.51664e-05 t=6345
+tung1 gaai1 	通街	c=1 d=4.99983e-05 t=6345
+tung1 gaai1 gin3 	通街見	c=1 d=0.000485661 t=6345
+tung1 siu1 	通宵	c=1 d=3.99823e-10 t=6345
+tung1 soeng4 	通常	c=3 d=6.57816e-09 t=6345
+tung1 zi1 	通知	c=1 d=4.08747e-05 t=6345
+tung4 	同	c=28 d=0.617944 t=6345
+tung4 jat1 go3 	同一個	c=1 d=1.0209e-08 t=6345
+tung4 joeng6 	同樣	c=0 d=8.80968e-11 t=6345
+tung4 joeng6 ji3 si1 	同樣意思	c=1 d=8.85384e-10 t=6345
+tung4 maai4 	同埋	c=24 d=0.0321897 t=6345
+tung4 ngo5 	同我	c=1 d=2.95481e-11 t=6345
+tung4 si4 	同時	c=1 d=7.81082e-06 t=6345
+tung4 si6 	同事	c=1 d=7.84998e-06 t=6345
+tyun4 	團	c=1 d=1.79249e-13 t=6345
+tyun4 	豚	c=2 d=2.16787e-07 t=6345
+tyun4 nin4 faan6 	團年飯	c=2 d=0.359485 t=6345
+tyut3 	脫	c=1 d=1.47036e-06 t=6345
+uk1 kei2 	屋企	c=6 d=0.00594335 t=6345
+ung3 gong1 jiu4 	甕缸窯	c=1 d=3.88072e-12 t=6345
+waa2 gaa1 	畫家	c=1 d=0.382893 t=6345
+waa2 min2 	畫面	c=0 d=0.00137736 t=6345
+waa4 leon4 	華倫	c=0 d=2.81071e-12 t=6345
+waa6 	話	c=13 d=0.032822 t=6345
+waa6 zo6 	話座	c=1 d=2.43637e-06 t=6345
+waai4 ji4 	懷疑	c=5 d=4.75086e-05 t=6345
+waak6 	或	c=1 d=0.00112497 t=6345
+waak6 ze2 	或者	c=8 d=0.00580405 t=6345
+waan2 	玩	c=4 d=4.69829e-05 t=6345
+waan2 gwo3 	玩過	c=1 d=6.80682e-05 t=6345
+waan2 zo2 	玩咗	c=1 d=1.53037e-06 t=6345
+waan4 hou2 	還好	c=1 d=0.00230521 t=6345
+waan4 jau5 sam6 mo1 	還有什麼	c=1 d=0.0243554 t=6345
+waang4 kwaa1 	橫跨	c=1 d=0.000841773 t=6345
+waat6 daan2 	滑蛋	c=1 d=5.13557e-14 t=6345
+wai4 	爲	c=2 d=0.00740944 t=6345
+wai4 do1 lei6 	維多利	c=1 d=1.58133e-09 t=6345
+wai4 kei4 	爲其	c=1 d=0.008271 t=6345
+wai4 nei4 	維尼	c=1 d=1.4595e-07 t=6345
+wai5 	煒	c=1 d=4.65572e-07 t=6345
+wai6 	位	c=4 d=0.0691251 t=6345
+wai6 liu5 	爲了	c=2 d=1.53739e-10 t=6345
+wai6 sang1 cyu5 	衛生署	c=1 d=6.625e-10 t=6345
+wan1 	溫	c=1 d=3.25659e-08 t=6345
+wan2 	搵	c=20 d=0.11618 t=6345
+wan2 ding6 	穩定	c=1 d=2.76077e-07 t=6345
+wan2 m4 dou2 	搵唔到	c=2 d=8.97104e-06 t=6345
+wan2 ngo5 	搵我	c=1 d=2.4617e-10 t=6345
+wat6 dat6 	覈突	c=1 d=1.09492e-08 t=6345
+wing4 	榮	c=1 d=0.666977 t=6345
+wing4 jau1 	榮休	c=1 d=1.00102e-12 t=6345
+wing5 	永	c=1 d=6.89655e-12 t=6345
+wing5 gau2 	永久	c=1 d=0.458406 t=6345
+wo3 	喎	c=7 d=0.00636612 t=6345
+wo4 	和	c=1 d=1 t=6337
+wo4 gei3 ng5 gam1 	和記五金	c=1 d=8.56853e-07 t=6345
+wo4 tong4 gong1 	禾塘崗	c=2 d=1.00116e-06 t=6345
+wo6 sing1 	和聲	c=1 d=2.83895e-11 t=6345
+wong4 	黃	c=1 d=1.11993e-09 t=6345
+wong4 daai6 sin1 	黃大仙	c=1 d=3.26502e-09 t=6345
+wong4 gam1 	黃金	c=8 d=0.026213 t=6345
+wong4 gam1 si4 doi6 	黃金時代	c=5 d=0.00416064 t=6345
+wong4 ngau4 	黃牛	c=1 d=0.000127806 t=6345
+wong4 zi2 waa4 	黃子華	c=1 d=0.0124629 t=6345
+wong6 gok3 	旺角	c=6 d=0.00080126 t=6345
+wu4 gam2 tou4 	胡錦濤	c=1 d=1.52668e-07 t=6345
+wu6 soeng1 	互相	c=1 d=7.23493e-07 t=6345
+wu6 soeng1 cyun4 jim5 	互相傳染	c=1 d=7.30162e-07 t=6345
+wu6 ziu3 	護照	c=1 d=0.241714 t=6345
+wui2 jau5 	會有	c=0 d=2.08655e-07 t=6345
+wui2 jyun4 	會員	c=0 d=4.23306e-06 t=6345
+wui3 m4 wui3 	會唔會	c=5 d=5.38128e-05 t=6345
+wui4 	回	c=1 d=1.52326e-10 t=6345
+wui4 gaa1 	回家	c=1 d=0.380983 t=6345
+wui4 gwai3 	回饋	c=1 d=0.00775048 t=6345
+wui4 long4 	迴廊	c=1 d=3.03754e-06 t=6345
+wui5 	會	c=66 d=3.19315 t=6345
+wui5 hai6 	會係	c=1 d=0.304221 t=6345
+wui6 fung1 	匯豐	c=1 d=1.38521e-10 t=6345
+wui6 hap6 	會合	c=1 d=7.54731e-14 t=6345
+wun6 	換	c=2 d=0.582748 t=6345
+wun6 ceoi2 	換取	c=1 d=1.27584e-13 t=6345
+zaa1 	揸	c=2 d=5.03486e-05 t=6345
+zaa1 ce1 	揸車	c=1 d=0.000508015 t=6345
+zaa1 zaa1 lam4 	渣渣臨	c=1 d=8.02792e-05 t=6345
+zaa3 	咋	c=1 d=2.23784e-06 t=6345
+zaai1 	齋	c=1 d=0.00637737 t=6345
+zaam2 laam2 	斬纜	c=1 d=1.83281e-10 t=6345
+zaam6 	站	c=5 d=4.44073e-06 t=6345
+zaam6 ding6 	暫定	c=1 d=1.22244e-10 t=6345
+zaan3 zo6 	贊助	c=0 d=1.48232e-14 t=6345
+zaan6 	賺	c=1 d=8.85082e-06 t=6345
+zaap6 gan6 ping4 	習近平	c=1 d=0.00161245 t=6345
+zaat3 saan1 dou6 	扎山道	c=1 d=0.00132678 t=6345
+zaau2 dou3 	找到	c=1 d=0.38868 t=6345
+zai2 	仔	c=2 d=0.524663 t=6345
+zai3 	制	c=2 d=0.33652 t=6345
+zai3 	濟	c=1 d=0.0209629 t=6345
+zam1 	針	c=1 d=6.69273e-12 t=6345
+zam1 kaat1 	針卡	c=1 d=1.26555e-06 t=6345
+zan1 	真	c=3 d=0.519442 t=6345
+zan1 hai6 	真係	c=27 d=0.000573869 t=6345
+zan1 sam1 	真心	c=2 d=1.93111e-07 t=6345
+zan3 	震	c=1 d=0.25924 t=6345
+zan6 gaan1 	陣間	c=1 d=3.03013e-13 t=6345
+zang1 	曾	c=1 d=1.2405e-06 t=6345
+zang1 zik6 	增值	c=2 d=0.0669137 t=6345
+zap1 	執	c=4 d=0.0181807 t=6345
+zap1 tou4 	執圖	c=1 d=0.00209124 t=6345
+zau2 	走	c=9 d=0.0670308 t=6345
+zau2 bat1 liu5 	走不了	c=1 d=1.30095e-07 t=6345
+zau2 dim3 	酒店	c=2 d=0.000542133 t=6345
+zau2 lau4 	酒樓	c=1 d=7.97404e-14 t=6345
+zau2 long2 	走廊	c=2 d=3.61942e-06 t=6345
+zau2 sou3 	走數	c=2 d=3.43149e-05 t=6345
+zau2 zing1 	酒精	c=1 d=2.27793e-09 t=6345
+zau6 	就	c=18 d=0.00205826 t=6345
+zau6 gam3 	就咁	c=2 d=1.98643e-10 t=6345
+zau6 hai6 	就係	c=10 d=0.000395812 t=6345
+zau6 jiu3 	就要	c=1 d=0.00360656 t=6345
+zau6 syun3 	就算	c=2 d=9.78637e-06 t=6345
+ze1 	啫	c=4 d=0.000649057 t=6345
+ze1 	遮	c=2 d=2.50591e-05 t=6345
+ze1 ngaan5 	遮眼	c=1 d=0.740818 t=6345
+ze2 	姐	c=6 d=0.00233159 t=6345
+ze2 se1 	這些	c=0 d=0.0327915 t=6345
+ze2 se1 gei1 wui6 	這些機會	c=1 d=0.329559 t=6345
+ze3 	這	c=2 d=0.00516038 t=6345
+ze3 go3 	這個	c=2 d=3.03065e-10 t=6345
+ze6 ze6 	謝謝	c=1 d=0.438235 t=6345
+zek3 	隻	c=1 d=2.17769e-09 t=6345
+zeoi3 	最	c=3 d=0.000266536 t=6345
+zeoi3 do1 	最多	c=1 d=1.41637e-07 t=6345
+zeoi3 gaai1 	最佳	c=1 d=0.0237562 t=6345
+zeoi3 gaai1 syun2 jau5 	最佳損友	c=1 d=0.00121259 t=6345
+zeoi3 gwai3 	最貴	c=1 d=3.0057e-06 t=6345
+zeoi3 hau6 	最後	c=6 d=0.0325207 t=6345
+zeoi3 hau6 paai3 deoi3 	最後派對	c=1 d=0.00289433 t=6345
+zeoi3 hou2 teng1 	最好聽	c=1 d=1.33366e-05 t=6345
+zeoi3 zung1 ji3 	最中意	c=1 d=7.21398e-12 t=6345
+zeoi6 wui6 	聚會	c=2 d=4.457e-13 t=6345
+zeon2 	準	c=1 d=0.0119145 t=6345
+zeon2 bei6 	準備	c=1 d=1.04692e-10 t=6345
+zeon3 coeng4 	進場	c=1 d=0.00115923 t=6345
+zeon3 dou6 	進度	c=1 d=2.30717e-12 t=6345
+zeon6 tau4 	盡頭	c=1 d=1.85988e-06 t=6345
+zi1 	支	c=1 d=2.30678e-10 t=6345
+zi1 	知	c=6 d=0.0298131 t=6345
+zi1 ci4 	支持	c=1 d=1.12264e-08 t=6345
+zi1 cin4 	之前	c=11 d=0.111583 t=6345
+zi1 hau6 	之後	c=7 d=3.80839e-05 t=6345
+zi1 liu2 	資料	c=2 d=0.168638 t=6345
+zi1 noi6 	之內	c=1 d=3.79277e-07 t=6345
+zi2 	指	c=1 d=3.56328e-08 t=6345
+zi2 ding6 	指定	c=1 d=0.000101039 t=6345
+zi2 gan1 	紙巾	c=1 d=0.0320647 t=6345
+zi2 hai6 	只係	c=2 d=0.0100017 t=6345
+zi2 ho2 sik1 	只可惜	c=1 d=0.000911882 t=6345
+zi2 jiu3 	只要	c=1 d=3.36388e-07 t=6345
+zi2 soeng2 	只想	c=2 d=8.11663e-09 t=6345
+zi2 wui5 	只會	c=2 d=9.11985e-12 t=6345
+zi3 	至	c=2 d=2.97579e-06 t=6345
+zi3 jyu1 	至於	c=1 d=1.87015e-12 t=6345
+zi3 siu2 	至少	c=2 d=0.000464291 t=6345
+zi3 siu2 m4 hai6 	至少唔係	c=1 d=4.62211e-10 t=6345
+zi6 	字	c=8 d=1.13175 t=6345
+zi6 cong1 	痔瘡	c=11 d=0.992787 t=6345
+zi6 dung6 	自動	c=2 d=3.03721e-09 t=6345
+zi6 gei2 	自己	c=6 d=0.00479611 t=6345
+zi6 jin4 	自然	c=1 d=0.00113061 t=6345
+zi6 ngaan5 	字眼	c=2 d=0.000149233 t=6345
+zi6 ngo5 	自我	c=1 d=3.38892e-06 t=6345
+zi6 si1 	自私	c=1 d=8.17173e-08 t=6345
+zik1 hai6 	即係	c=6 d=0.00311096 t=6345
+zik1 hak1 	即刻	c=3 d=7.96252e-09 t=6345
+zik1 jing2 zik1 jau5 	即影即有	c=1 d=1.05708e-06 t=6345
+zik1 jip6 	職業	c=0 d=1.44847e-07 t=6345
+zik1 jip6 coi3 	職業賽	c=1 d=1.45573e-06 t=6345
+zik6 	直	c=2 d=3.01309e-05 t=6345
+zik6 bo3 	直播	c=1 d=7.24768e-08 t=6345
+zik6 hai6 	直系	c=1 d=3.47707e-14 t=6345
+zik6 zip3 	直接	c=16 d=0.318557 t=6345
+zim1 	尖	c=1 d=9.00938e-09 t=6345
+zim1 saa1 zeoi2 	尖沙咀	c=9 d=0.022099 t=6345
+zim6 zim2 	漸漸	c=1 d=0.0258615 t=6345
+zin3 	箭	c=1 d=0.0765355 t=6345
+zin3 long4 	戰狼	c=3 d=0.0371441 t=6345
+zing1 syun2 	精選	c=1 d=1.72966e-05 t=6345
+zing2 go3 	整個	c=1 d=0.00229965 t=6345
+zing2 hou2 	整好	c=2 d=1.43142e-06 t=6345
+zing3 fu2 	政府	c=1 d=1.03383e-09 t=6345
+zing3 geoi3 	證據	c=1 d=0.348192 t=6345
+zing3 hai6 	正係	c=1 d=1.98512e-08 t=6345
+zing3 ji6 	正義	c=1 d=3.03386e-06 t=6345
+zing3 ji6 wui4 long4 	正義迴廊	c=1 d=2.31157e-05 t=6345
+zing3 kok3 	正確	c=1 d=0.0342181 t=6345
+zing3 ming4 	證明	c=1 d=2.0403e-07 t=6345
+zing3 sat6 	證實	c=4 d=0.0140519 t=6345
+zing3 sik1 	正式	c=2 d=6.5581e-08 t=6345
+zing3 zi6 	政治	c=1 d=0.155673 t=6345
+zing6 dai1 	剩低	c=1 d=0.000902809 t=6345
+zing6 hai6 	剩係	c=4 d=0.078935 t=6345
+zip3 	接	c=2 d=5.32065e-08 t=6345
+zip3 sau6 	接受	c=1 d=0.00118858 t=6345
+zit3 	哲	c=2 d=9.81045e-12 t=6345
+zit3 	節	c=1 d=1.48514e-06 t=6345
+ziu1 tau4 zou2 	朝頭早	c=1 d=4.09944e-10 t=6345
+ziu3 	照	c=1 d=0.106459 t=6345
+zo2 	咗	c=67 d=1.1585 t=6345
+zo2 deon1 	佐敦	c=2 d=7.67726e-13 t=6345
+zo2 jau2 	左右	c=3 d=2.30824e-06 t=6345
+zo6 	座	c=8 d=0.244876 t=6345
+zoek3 me1 saam1 	着咩衫	c=1 d=0.000584356 t=6345
+zoeng1 	將	c=5 d=0.0949723 t=6345
+zoeng1 	張	c=10 d=0.29613 t=6345
+zoeng1 bat1 wui2 	將不會	c=1 d=0.000934966 t=6345
+zoeng1 gwan1 ou3 	將軍澳	c=1 d=1.7089e-10 t=6345
+zoeng1 gwok3 wing4 	張國榮	c=1 d=4.53058e-10 t=6345
+zoeng1 tin1 fu3 	將天賦	c=1 d=9.18825e-05 t=6345
+zoeng1 wui5 	將會	c=3 d=0.00979743 t=6345
+zoeng2 jat1 zi3 	長一智	c=1 d=5.19884e-11 t=6345
+zoeng3 wu6 	賬戶	c=1 d=8.27381e-07 t=6345
+zoi3 	再	c=13 d=0.119191 t=6345
+zoi3 gin3 	再見	c=1 d=0.433874 t=6345
+zoi3 m4 hai6 	再唔係	c=1 d=2.41796e-05 t=6345
+zoi6 	在	c=2 d=1.56042e-10 t=6345
+zoi6 noi6 	在內	c=1 d=6.19416e-13 t=6345
+zong1 	莊	c=5 d=1.37455e-07 t=6345
+zong1 jyun4 	莊員	c=4 d=0.89587 t=6345
+zou2 	早	c=4 d=0.000382393 t=6345
+zou2 	組	c=1 d=2.43762e-12 t=6345
+zou2 caan1 	早餐	c=1 d=1.87436e-09 t=6345
+zou2 di1 	早啲	c=2 d=1.71215e-07 t=6345
+zou2 gwo3 	早過	c=1 d=0.0176857 t=6345
+zou2 jat6 	早日	c=1 d=0.00032718 t=6345
+zou6 	做	c=27 d=0.000925158 t=6345
+zou6 dou3 	做到	c=2 d=0.0100518 t=6345
+zou6 gwo3 	做過	c=1 d=1.80056e-07 t=6345
+zou6 haa6 	做下	c=1 d=3.71703e-05 t=6345
+zou6 jyun4 	做完	c=2 d=4.07932e-11 t=6345
+zou6 m4 ceot1 	做唔出	c=1 d=0.142274 t=6345
+zou6 m4 dou3 	做唔到	c=1 d=0.0437178 t=6345
+zou6 maai4 	做埋	c=1 d=2.37703e-10 t=6345
+zou6 mat1 	做乜	c=1 d=1.15943e-05 t=6345
+zou6 zit3 	做節	c=1 d=0.00272578 t=6345
+zou6 zo2 	做左	c=1 d=9.52201e-13 t=6345
+zuk1 	捉	c=2 d=2.16648e-07 t=6345
+zuk1 	粥	c=1 d=1.29446e-07 t=6345
+zuk1 nei5 	祝你	c=2 d=0.00100448 t=6345
+zung1 	中	c=3 d=3.33044e-07 t=6345
+zung1 	終	c=1 d=0.0129068 t=6345
+zung1 	鍾	c=1 d=0.000418012 t=6345
+zung1 gaan1 	中間	c=1 d=1.51932e-09 t=6345
+zung1 gik6 	終極	c=1 d=9.91061e-13 t=6345
+zung1 gwok3 	中國	c=1 d=2.62024e-09 t=6345
+zung1 gwok3 jan4 	中國人	c=1 d=1.62949e-09 t=6345
+zung1 hok6 	中學	c=1 d=5.67182e-06 t=6345
+zung1 ji3 	中意	c=3 d=1.57302e-05 t=6345
+zung1 jyu1 	終於	c=7 d=0.248941 t=6345
+zung1 man2 	中文	c=3 d=0.441237 t=6345
+zung1 sam1 	中心	c=3 d=0.00496834 t=6345
+zung2 	總	c=1 d=3.61836e-12 t=6345
+zung6 	仲	c=12 d=0.54965 t=6345
+zung6 hai6 	仲係	c=2 d=2.4072e-07 t=6345
+zung6 jam6 	重任	c=1 d=0.00145901 t=6345
+zung6 jau5 	仲有	c=3 d=6.93601e-06 t=6345
+zung6 jiu3 	仲要	c=2 d=0.00352946 t=6345
+zung6 jiu3 	重要	c=1 d=8.33823e-10 t=6345
+zung6 waa6 	仲話	c=1 d=0.00096344 t=6345
+zyu1 lau5 	豬柳	c=0 d=7.95075e-10 t=6345
+zyu1 lau5 daan2 hon3 bou2 	豬柳蛋漢堡	c=1 d=7.9906e-09 t=6345
+zyu1 paa2 	豬排	c=1 d=5.16131e-14 t=6345
+zyu2 jiu3 	主要	c=2 d=5.17715e-13 t=6345
+zyu6 	住	c=6 d=0.975329 t=6345
+zyun1 	專	c=1 d=3.67305e-12 t=6345
+zyun3 	轉	c=2 d=0.117662 t=6345
+zyun3 	鑽	c=1 d=1.12554e-09 t=6345
+zyun3 sek6 saan1 	鑽石山	c=1 d=3.31549e-13 t=6345
+zyun6 kei4 	傳奇	c=0 d=0.019593 t=6345
+zyun6 kei4 jan4 mat2 	傳奇人物	c=1 d=0.196912 t=6345
